@@ -96,7 +96,7 @@ It impacts mood, health and economics and it is a part of our lives from early c
             <div class="astrodividermask"></div><span><i>&#10038;</i></span>
         </div>
         </h4>
-
+        <div data-aos="fade-up-right">
 <table class="table table-bordered mt-4 text-center">
     <thead>
         <th>S.No.</th>
@@ -131,6 +131,7 @@ It impacts mood, health and economics and it is a part of our lives from early c
         </tr>
     </tbody>
 </table>
+</div>
 <div class="text-center mt-4 mb-4">
     <button class="btn btn-info btn-lg">SEE MORE</button>
 </div>
@@ -150,6 +151,7 @@ It impacts mood, health and economics and it is a part of our lives from early c
             <div class="astrodividermask"></div><span><i>&#10038;</i></span>
         </div>
         </h4>
+      <div data-aos="flip-up">
 <table class="table table-bordered mt-4 text-center">
     <thead>
         <th>S.No.</th>
@@ -184,6 +186,7 @@ It impacts mood, health and economics and it is a part of our lives from early c
         </tr>
     </tbody>
 </table>
+</div>
 <div class="text-center mt-4 mb-4">
     <button class="btn btn-info btn-lg">SEE MORE</button>
 </div>
@@ -196,13 +199,13 @@ It impacts mood, health and economics and it is a part of our lives from early c
 
 <div class="row no-gutters">
     <div class="col-sm-4 col-md-4 mt-2">
-<img src="{{asset('assets/images/FirstPage/DCcarsoule1.jpg')}}" class="img-fluid">
+<img src="{{asset('assets/images/FirstPage/DCcarsoule1.jpg')}}" class="img-fluid hvr-shrink">
     </div>
     <div class="col-sm-4 col-md-4 mt-2">
-<img src="{{asset('assets/images/FirstPage/Milkcarsoule2.jpg')}}" class="img-fluid">
+<img src="{{asset('assets/images/FirstPage/Milkcarsoule2.jpg')}}" class="img-fluid hvr-shrink">
     </div>
     <div class="col-sm-4 col-md-4 mt-2">
-<img src="{{asset('assets/images/FirstPage/whiteCarsoule3.jpg')}}" class="img-fluid">
+<img src="{{asset('assets/images/FirstPage/whiteCarsoule3.jpg')}}" class="img-fluid hvr-shrink">
     </div>
 </div>
 
@@ -216,15 +219,15 @@ It impacts mood, health and economics and it is a part of our lives from early c
     <h6 class="text-bold about-us">OUR CERTIFICATIONS</h6>
 </div>
    <section class="customer-logos slider">
-      <div class="slide"><img src="{{asset('assets/images/FirstPage/koshar_Upadte.png')}}"></div>
-      <div class="slide"><img src="{{asset('assets/images/FirstPage/KosharJ.png')}}"></div>
-      <div class="slide"><img src="{{asset('assets/images/FirstPage/natureicon.png')}}"></div>
-      <div class="slide"><img src="{{asset('assets/images/FirstPage/utzicon.png')}}"></div>
-      <div class="slide"><img src="{{asset('assets/images/FirstPage/ifsicon.png')}}"></div>
-      <div class="slide"><img src="{{asset('assets/images/FirstPage/hallaItaliaicon.png')}}"></div>
-      <div class="slide"><img src="{{asset('assets/images/FirstPage/fairTradeicon.png')}}"></div>
-      <div class="slide"><img src="{{asset('assets/images/FirstPage/brcicon.png')}}"></div>
-      <div class="slide"><img src="{{asset('assets/images/FirstPage/koshar_Upadte.png')}}"></div>
+      <div class="slide"><img src="{{asset('assets/images/FirstPage/koshar_Upadte.png')}}" class="hvr-grow"></div>
+      <div class="slide"><img src="{{asset('assets/images/FirstPage/KosharJ.png')}}" class="hvr-grow"></div>
+      <div class="slide"><img src="{{asset('assets/images/FirstPage/natureicon.png')}}" class="hvr-grow"></div>
+      <div class="slide"><img src="{{asset('assets/images/FirstPage/utzicon.png')}}" class="hvr-grow"></div>
+      <div class="slide"><img src="{{asset('assets/images/FirstPage/ifsicon.png')}}" class="hvr-grow"></div>
+      <div class="slide"><img src="{{asset('assets/images/FirstPage/hallaItaliaicon.png')}}" class="hvr-grow"></div>
+      <div class="slide"><img src="{{asset('assets/images/FirstPage/fairTradeicon.png')}}" class="hvr-grow"></div>
+      <div class="slide"><img src="{{asset('assets/images/FirstPage/brcicon.png')}}" class="hvr-grow"></div>
+      <div class="slide"><img src="{{asset('assets/images/FirstPage/koshar_Upadte.png')}}" class="hvr-grow"></div>
    </section>
 </div>
 <!--end of Customer Logo----->

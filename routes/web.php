@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-use App\Http\Controllers\Webpage;
+
 
 /*
 |--------------------------------------------------------------------------
@@ -19,7 +19,15 @@ Route::get('/', function () {
     return view('welcome',compact('title'));
 });
 
-
+use App\Http\Controllers\Webpage;
 Route::get('/aboutus',[Webpage::class, 'aboutUs']);
 Route::get('/ourProcess',[Webpage::class,'ourProcess']);
+Route::get('/white-chocolates',[Webpage::class,'whiteChocolates']);
+Route::get('/milk-chocolates',[Webpage::class,'milkChocolates']);
+
+use App\Http\Controllers\Darkchocolates;
+Route::get('/dark-chocolates',[Darkchocolates::class,'dark']);
+
+use App\Http\Controllers\Fillings;
+Route::get('/fillings',[Fillings::class,'fillings']);
 

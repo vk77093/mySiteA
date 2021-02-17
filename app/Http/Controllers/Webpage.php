@@ -14,4 +14,12 @@ class Webpage extends Controller
         $title="Our Process";
         return view('pages.ourProcess',compact('title'));
     }
+public function whiteChocolates(){
+    $title="White Chocolates";
+    return view('pages.white',compact('title'));
+}
+public function milkChocolates(){
+    $title="Milk Chocolates";
+    return view('pages.milk',compact('title'));
+}
 }
