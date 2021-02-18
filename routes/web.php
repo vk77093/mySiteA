@@ -29,6 +29,8 @@ Route::get('/contact-us',[Webpage::class,'contact']);
 
 use App\Http\Controllers\Darkchocolates;
 Route::get('/dark-chocolates',[Darkchocolates::class,'dark']);
+Route::get('/dark-chocolates/dec-1401',[DarkChocolates::class,'dec1401']);
+
 
 use App\Http\Controllers\Fillings;
 Route::get('/fillings',[Fillings::class,'fillings']);

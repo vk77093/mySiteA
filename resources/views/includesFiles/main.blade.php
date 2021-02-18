@@ -7,7 +7,8 @@
 <meta name="description" content="Navigation  menu with submenu examples for any type of project, Bootstrap 4" />
 
 <title>{{$title ?? ''}} -AARIA</title>
-
+<link rel="manifest" href="site.webmanifest">
+<link rel="shortcut icon" type="image/x-icon" href="{{asset('assets/images/DarkChocolates/headerImage.png')}}">
 
 <!-- jQuery -->
 {{-- <script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
