@@ -22,4 +22,12 @@ public function milkChocolates(){
     $title="Milk Chocolates";
     return view('pages.milk',compact('title'));
 }
+public function pastes(){
+    $title="Pastes";
+    return view('pages.paste',compact('title'));
+}
+public function contact(){
+    $title="Contact Us";
+    return view('pages.contact',compact('title'));
+}
 }

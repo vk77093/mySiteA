@@ -24,6 +24,8 @@ Route::get('/aboutus',[Webpage::class, 'aboutUs']);
 Route::get('/ourProcess',[Webpage::class,'ourProcess']);
 Route::get('/white-chocolates',[Webpage::class,'whiteChocolates']);
 Route::get('/milk-chocolates',[Webpage::class,'milkChocolates']);
+Route::get('/pastes',[Webpage::class, 'pastes']);
+Route::get('/contact-us',[Webpage::class,'contact']);
 
 use App\Http\Controllers\Darkchocolates;
 Route::get('/dark-chocolates',[Darkchocolates::class,'dark']);

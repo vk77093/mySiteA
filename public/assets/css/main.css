@@ -63,6 +63,10 @@ ul.nav a:hover {
     height: 40px;
 }
 
+.nobreak {
+    white-space: nowrap;
+}
+
 @media (min-width: 991px) {
     .nav-image {
         height: 50px;
@@ -74,6 +78,9 @@ ul.nav a:hover {
     .pb-top {
         margin-top: 100px;
         margin-bottom: 50px;
+    }
+    .contact {
+        margin-left: 300px;
     }
 }
 
@@ -113,11 +120,17 @@ ul.nav a:hover {
 }
 
 #parallaxSec {
-    /* The image used */
     background-image: url(/assets/images/FirstPage/chocoRou.png);
-    /* Set a specific height */
     min-height: 100%;
-    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#contactsParallax {
+    background-image: url(/assets/images/Pastes/Contact-us.jpg);
+    min-height: 100%;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
