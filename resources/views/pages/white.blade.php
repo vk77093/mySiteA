@@ -12,7 +12,7 @@
         <div class="row">
             <div class="col-md-6 col-sm-6">
  <figure class="figure">
- <a href=""><img src="{{asset('assets/images/WhiteChocolates/White1608.jpg')}}" alt="" class="figure-img img-fluid bordered hvr-float-shadow lazy" loading="lazy"></a>
+ <a href="white-chocolates/dec-1608"><img src="{{asset('assets/images/WhiteChocolates/White1608.jpg')}}" alt="" class="figure-img img-fluid bordered hvr-float-shadow lazy" loading="lazy"></a>
  <figcaption class="figure-caption text-center">
      <p class="header-text-product">WHITE CHOCOLATE COUVERTURE WITH CREAM</p>
      <div class="astrodivider">

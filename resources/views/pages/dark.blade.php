@@ -31,7 +31,7 @@
 <div class="row">
 <div class="col-sm-4 col-md-4 mt-4">
     <figure class="figure">
- <a href=""><img src="{{asset('assets/images/DarkChocolates/1401.jpg')}}" alt="" class="figure-img img-fluid bordered hvr-float-shadow lazy" loading="lazy"></a>
+ <a href="/dark-chocolates/dec-1401"><img src="{{asset('assets/images/DarkChocolates/1401.jpg')}}" alt="" class="figure-img img-fluid bordered hvr-float-shadow lazy" loading="lazy"></a>
  <figcaption class="figure-caption text-center">
      <p class="header-text-product">DARK CHOCOLATE COUVERTURE</p>
      <div class="astrodivider">
@@ -49,7 +49,7 @@
 
     <div class="col-sm-4 col-md-4 mt-4">
     <figure class="figure">
- <a href=""><img src="{{asset('assets/images/DarkChocolates/1407.jpg')}}" alt="" class="figure-img img-fluid bordered hvr-float-shadow lazy" loading="lazy"></a>
+ <a href="/dark-chocolates/dec-1407"><img src="{{asset('assets/images/DarkChocolates/1407.jpg')}}" alt="" class="figure-img img-fluid bordered hvr-float-shadow lazy" loading="lazy"></a>
  <figcaption class="figure-caption text-center">
      <p class="header-text-product">DARK CHOCOLATE COUVERTURE</p>
      <div class="astrodivider">
@@ -67,7 +67,7 @@
 
     <div class="col-sm-4 col-md-4 mt-4">
     <figure class="figure">
- <a href=""><img src="{{asset('assets/images/DarkChocolates/1413.jpg')}}" alt="" class="figure-img img-fluid bordered hvr-float-shadow lazy" loading="lazy"></a>
+ <a href="/dark-chocolates/dec-1413"><img src="{{asset('assets/images/DarkChocolates/1413.jpg')}}" alt="" class="figure-img img-fluid bordered hvr-float-shadow lazy" loading="lazy"></a>
  <figcaption class="figure-caption text-center">
      <p class="header-text-product"> DARK CHOCOLATE COUVERTURE </p>
      <div class="astrodivider">
@@ -115,7 +115,7 @@
         <div class="row">
             <div class="col-sm-4 col-md-4 mt-4">
     <figure class="figure">
- <a href=""><img src="{{asset('assets/images/DarkChocolates/1388.jpg')}}" alt="" class="figure-img img-fluid bordered hvr-float-shadow lazy" loading="lazy"></a>
+ <a href="/dark-chocolates/dec-1388"><img src="{{asset('assets/images/DarkChocolates/1388.jpg')}}" alt="" class="figure-img img-fluid bordered hvr-float-shadow lazy" loading="lazy"></a>
  <figcaption class="figure-caption text-center">
      <p class="header-text-product"> DARK CHOCOLATE ST. DOMINGO </p>
      <div class="astrodivider">
@@ -132,7 +132,7 @@
     </div>
     <div class="col-sm-4 col-md-4 mt-4">
     <figure class="figure">
- <a href=""><img src="{{asset('assets/images/DarkChocolates/1406.jpg')}}" alt="" class="figure-img img-fluid bordered hvr-float-shadow lazy" loading="lazy"></a>
+ <a href="/dark-chocolates/dec-1406"><img src="{{asset('assets/images/DarkChocolates/1406.jpg')}}" alt="" class="figure-img img-fluid bordered hvr-float-shadow lazy" loading="lazy"></a>
  <figcaption class="figure-caption text-center">
      <p class="header-text-product"> DARK CHOCOLATE ECUADOR </p>
      <div class="astrodivider">
@@ -149,7 +149,7 @@
     </div>
     <div class="col-sm-4 col-md-4 mt-4">
     <figure class="figure">
- <a href=""><img src="{{asset('assets/images/DarkChocolates/1427.jpg')}}" alt="" class="figure-img img-fluid bordered hvr-float-shadow lazy" loading="lazy"></a>
+ <a href="/dark-chocolates/dec-1427"><img src="{{asset('assets/images/DarkChocolates/1427.jpg')}}" alt="" class="figure-img img-fluid bordered hvr-float-shadow lazy" loading="lazy"></a>
  <figcaption class="figure-caption text-center">
      <p class="header-text-product"> DARK CHOCOLATE PERU </p>
      <div class="astrodivider">
@@ -167,7 +167,7 @@
 
     <div class="col-sm-4 col-md-4 mt-4">
     <figure class="figure">
- <a href=""><img src="{{asset('assets/images/DarkChocolates/1440.jpg')}}" alt="" class="figure-img img-fluid bordered hvr-float-shadow lazy" loading="lazy"></a>
+ <a href="/dark-chocolates/dec-1440"><img src="{{asset('assets/images/DarkChocolates/1440.jpg')}}" alt="" class="figure-img img-fluid bordered hvr-float-shadow lazy" loading="lazy"></a>
  <figcaption class="figure-caption text-center">
      <p class="header-text-product"> DARK CHOCOLATE VENEZUELA </p>
      <div class="astrodivider">
@@ -185,7 +185,7 @@
 
     <div class="col-sm-4 col-md-4 mt-4">
     <figure class="figure">
- <a href=""><img src="{{asset('assets/images/DarkChocolates/1441.jpg')}}" alt="" class="figure-img img-fluid bordered hvr-float-shadow lazy" loading="lazy"></a>
+ <a href="/dark-chocolates/dec-1441"><img src="{{asset('assets/images/DarkChocolates/1441.jpg')}}" alt="" class="figure-img img-fluid bordered hvr-float-shadow lazy" loading="lazy"></a>
  <figcaption class="figure-caption text-center">
      <p class="header-text-product"> DARK CHOCOLATE MADAGASCAR </p>
      <div class="astrodivider">
@@ -203,7 +203,7 @@
 
     <div class="col-sm-4 col-md-4 mt-4">
     <figure class="figure">
- <a href=""><img src="{{asset('assets/images/DarkChocolates/1442.jpg')}}" alt="" class="figure-img img-fluid bordered hvr-float-shadow lazy" loading="lazy"></a>
+ <a href="/dark-chocolates/dec-1442"><img src="{{asset('assets/images/DarkChocolates/1442.jpg')}}" alt="" class="figure-img img-fluid bordered hvr-float-shadow lazy" loading="lazy"></a>
  <figcaption class="figure-caption text-center">
      <p class="header-text-product"> DARK CHOCOLATE JAMAICA </p>
      <div class="astrodivider">
