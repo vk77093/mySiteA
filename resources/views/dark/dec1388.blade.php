@@ -24,7 +24,7 @@
                    of Nuts and Milk Solids.</span><br>
                    <span class="comp">*The Product Doesn’t Contain Gluten*</span>
                    <section class="mt-3">
-                      <a href=""><button class="btn btn-myInfo btn-lg">Click For technical specs..</button></a>
+                      <a href="/dark-chocolates/dec-1388/technical-specification-1388"><button class="btn btn-myInfo btn-lg">Click For technical specs..</button></a>
                    </section>
     </div>
     <div class="col-sm-6 col-md-6 text-center mb-1 mt-1">
