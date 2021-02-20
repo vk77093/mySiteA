@@ -39,10 +39,7 @@ public function milkChocolates(){
         $title="Techincal Spec-1506";
         return view('pages.spec-1506',compact('title'));
     }
-public function pastes(){
-    $title="Pastes";
-    return view('pages.paste',compact('title'));
-}
+
 public function contact(){
     $title="Contact Us";
     return view('pages.contact',compact('title'));

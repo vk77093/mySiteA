@@ -3,14 +3,14 @@
  <div id="carouselExampleControls" class="carsoule slide" data-ride="carousel"style="margin-top: 50px">
 <div class="carousel-inner">
  <div class="carousel-item active">
-     <img src="{{asset('assets/images/DarkChocolates/dark.jpg')}}" class="d-block w-100" alt="...">
+     <img src="{{asset('assets/images/Pastes/H-PASTE.jpg')}}" class="d-block w-100" alt="...">
     </div>
 </div>
 </div>
 <div class="container mt-3 w-80">
     <div data-aos="fade-right" data-aos-duration="3000" data-aos-easing="ease-in-sine">
 <div class="text-center mr-5 ml-5 mt-3">
-    <h6 class="about-us">TECHNICAL SPECIFICATION FOR 1440 –DARK CHOCOLATE VENEZUELA</h6>
+    <h6 class="about-us">TECHNICAL SPECIFICATION FOR 3380-HAZELNUT 100% PASTE</h6>
 </div>
 </div>
 <div class="row">
@@ -20,24 +20,18 @@
     <table class="table tableCol mt-2 text-center">
 <tr>
     <td class="compDesc">Product Code</td>
-    <td class="compDesc">1440</td>
+    <td class="compDesc">03380</td>
 </tr>
 <tr>
     <td class="compDesc">Product Name</td>
-    <td class="compDesc">Dark Chocolate Venezuela</td>
+    <td class="compDesc">Hazelnut 100% Paste</td>
 </tr>
-<tr>
-    <td class="compDesc">Category</td>
-    <td class="compDesc">Dark Chocolate</td>
-</tr>
+
 <tr>
     <td class="compDesc">HSN Code</td>
-    <td class="compDesc">18069039</td>
+    <td class="compDesc">8022200</td>
 </tr>
-<tr>
-    <td class="compDesc">Country of Origin</td>
-    <td class="compDesc">Italy</td>
-</tr>
+
 </table>
 </div>
 <div data-aos="flip-down">
@@ -45,12 +39,12 @@
     <table class="table tableCol mt-2 text-center">
 <tr>
     <td class="compDesc">Ingredients</td>
-    <td class="compDesc">Venezuela Cocoa Mass, Sugar, Cocoa Butter, Emulsifier (INS322) <br>
-Contains Added Natural Flavour (Vanilla Extract)</td>
+    <td class="compDesc">Hazelnut
+</td>
 </tr>
 <tr>
     <td class="compDesc">Allergen</td>
-    <td class="compDesc">Soy Lecithin, Milk Solids and May Contain Traces of Nuts <br>
+    <td class="compDesc">Hazelnut. May Contain Traces of Pistachio, Almond, Walnut & Cashew. <br>
 *The Product Doesn’t Contain Gluten.</td>
 </tr>
     </table>
@@ -60,58 +54,61 @@ Contains Added Natural Flavour (Vanilla Extract)</td>
     <table class="table tableCol mt-2 text-center">
 <tr>
     <td class="compDesc">Colour</td>
-    <td class="compDesc">Dark brown, typical of dark chocolate</td>
+    <td class="compDesc">Brown, from beige to dark brown, depending on the degree of roasting</td>
 </tr>
 <tr>
     <td class="compDesc">Odour</td>
-    <td class="compDesc">Typical of dark chocolate</td>
+     <td class="compDesc">Typical of hazelnuts, free from abnormal odor</td>
 </tr>
 <tr>
-    <td class="compDesc">Flavour</td>
-    <td class="compDesc">Typical of dark chocolate</td>
+    <td class="compDesc">Flavor</td>
+     <td class="compDesc">Typical of Nuts, not rancid, healthy, pleasant</td>
+</tr>
+<tr>
+    <td class="compDesc">Fineness Paste</td>
+     <td class="compDesc">≤ 30 µm</td>
 </tr>
 <tr>
     <td class="compDesc">Appearance</td>
-    <td class="compDesc">Compact, in drops or pods</td>
+    <td class="compDesc">Homogeneous, fluid</td>
 </tr>
-<tr>
-    <td class="compDesc">Fineness</td>
-    <td class="compDesc">Approx. 18-22 µm</td>
-</tr>
+
     </table>
 </div>
 
 <div data-aos="flip-left">
     <p class="comp">Chemical Characteristics</p>
     <table class="table tableCol mt-2 text-center">
+        <tr>
+            <td class="compDesc">Humidity</td>
+            <td class="compDesc"> < 2 %</td>
+        </tr>
+         <tr>
+            <td class="compDesc">Rancidity</td>
+            <td class="compDesc">Negative</td>
+        </tr>
+         <tr>
+            <td class="compDesc">Number of peroxides</td>
+            <td class="compDesc"> < 5 meq of active O2/Kg</td>
+        </tr>
 <tr>
-    <td class="compDesc">Cocoa content</td>
-    <td class="compDesc">Min 74%</td>
+    <td class="compDesc">Acidity</td>
+    <td class="compDesc">< 1.5 % (oleic acid)</td>
+</tr>
+
+<tr>
+    <td class="compDesc">Aflatoxin B1</td>
+    <td class="compDesc">< 5  Pg/Kg</td>
 </tr>
 <tr>
-    <td class="compDesc">Fat content</td>
-    <td class="compDesc">Min 45%</td>
+    <td class="compDesc">Aflatoxin tot <br>( B1 ,B2 ,G1 ,G2 )</td>
+    <td class="compDesc"> < 10 Pg/Kg</td>
 </tr>
 <tr>
-    <td class="compDesc">Water content</td>
-    <td class="compDesc">Max 2%</td>
+    <td class="compDesc">Foreign bodies	</td>
+    <td class="compDesc">Absent/100g</td>
 </tr>
-<tr>
-    <td class="compDesc">Melting temperature</td>
-    <td class="compDesc">45°C – 50°C</td>
-</tr>
-<tr>
-    <td class="compDesc">Cooling temperature</td>
-    <td class="compDesc">29°C – 31°C</td>
-</tr>
-<tr>
-    <td class="compDesc">Tempering temperature</td>
-    <td class="compDesc">31°C – 33°C</td>
-</tr>
-<tr>
-    <td class="compDesc">Working temperature</td>
-    <td class="compDesc">29.5°C – 31.5°C</td>
-</tr>
+
 
     </table>
 </div>
@@ -119,36 +116,36 @@ Contains Added Natural Flavour (Vanilla Extract)</td>
     <p class="comp">Microbiological Characteristics</p>
     <table class="table tableCol mt-2 text-center">
         <tr>
-            <td class="compDesc">Total bacteria count</td>
-            <td class="compDesc">< 10.000 cfu/g</td>
+            <td class="compDesc">Total bacteria count 30⁰C</td>
+            <td class="compDesc">< 5.000 cfu/g</td>
         </tr>
         <tr>
-            <td class="compDesc">Yeasts</td>
+            <td class="compDesc">Moulds  and Yeasts</td>
             <td class="compDesc">< 100 cfu/g</td>
         </tr>
         <tr>
-            <td class="compDesc">Moulds</td>
+            <td class="compDesc">Total Coliforms</td>
             <td class="compDesc">< 100 cfu/g</td>
         </tr>
         <tr>
             <td class="compDesc">Enterobacteria</td>
-            <td class="compDesc">< 10 cfu/ g</td>
+            <td class="compDesc">< 100 cfu/g</td>
         </tr>
         <tr>
             <td class="compDesc">Salmonella spp</td>
             <td class="compDesc">Absent / 25g</td>
         </tr>
         <tr>
-            <td class="compDesc">E.Coli</td>
-            <td class="compDesc">< 10 cfu/g</td>
+            <td class="compDesc">E.coli</td>
+            <td class="compDesc"> < 10 cfu /g</td>
         </tr>
         <tr>
-            <td class="compDesc">S.aureus</td>
-            <td class="compDesc">< 10 cfu/g</td>
+            <td class="compDesc">Staphylococcus aureus</td>
+            <td class="compDesc">≤ 10 cfu /g</td>
         </tr>
         <tr>
-            <td class="compDesc">Total Coliforms</td>
-            <td class="compDesc">< 100 cfu /g</td>
+            <td class="compDesc">Listeria monocytogenes</td>
+            <td class="compDesc">Absent / 25g</td>
         </tr>
     </table>
 </div>
@@ -158,35 +155,36 @@ Contains Added Natural Flavour (Vanilla Extract)</td>
     <table class="table tableCol mt-2 text-center">
         <tr>
             <td class="compDesc">Energy</td>
-            <td class="compDesc">587.00 Kcal</td>
+            <td class="compDesc">681.00 Kcal</td>
         </tr>
         <tr>
             <td class="compDesc">Proteins</td>
-            <td class="compDesc">8.70 g</td>
+            <td class="compDesc">15.30 g</td>
         </tr>
         <tr>
             <td class="compDesc">Carbohydrates</td>
-            <td class="compDesc">29.00 g</td>
+            <td class="compDesc">6.00 g</td>
         </tr>
+
         <tr>
             <td class="compDesc">Sugar</td>
-            <td class="compDesc">24.60 g</td>
+            <td class="compDesc">4.00 g</td>
         </tr>
         <tr>
             <td class="compDesc">Saturated fatty acids</td>
-            <td class="compDesc">29.50 g</td>
+            <td class="compDesc">4.20 g</td>
         </tr>
         <tr>
             <td class="compDesc">Fat</td>
-            <td class="compDesc">46.20 g</td>
+            <td class="compDesc">64.00 g</td>
         </tr>
         <tr>
             <td class="compDesc">Fiber</td>
-            <td class="compDesc">10.20 g</td>
+            <td class="compDesc">10.00 g</td>
         </tr>
         <tr>
             <td class="compDesc">Sodium*</td>
-            <td class="compDesc">8.00 mg</td>
+            <td class="compDesc">12.00 mg</td>
         </tr>
     </table>
     <p class="nuts">(The nutritional characteristics are indicative and subject to changes)</p>
@@ -197,11 +195,14 @@ Contains Added Natural Flavour (Vanilla Extract)</td>
 <p class="comp">Storage Conditions</p>
 <p class="compDesc">Keep the product in cool and dry place in temperature within (14-20ºC) and Humidity < 60%. Store away from sunlight and strong odours.</p>
 <p class="comp">Shelf Life</p>
-<p class="compDesc">24 months from the date of packaging.</p>
+<p class="compDesc">18 months from the date of packaging.</p>
+<p class="comp">GMO</p>
+<p class="compDesc">The product is not considered on the basis of genetically</p>
 <p class="comp">Safety Data Sheet</p>
+<p class="compDesc">Not intended for final customer.</p>
 <p class="compDesc">Product not dangerous in normal conditions of use.</p>
 <p class="comp">Packaging</p>
-<p class="compDesc">Packed in plastic primary packaging conforming to the food contract.</p>
+<p class="compDesc">Packed in plastic bucket primary packaging conforming to the food contact.</p>
     </div>
 
     <div class="col-sm-12 col-md-12 mt-2">

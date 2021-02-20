@@ -10,7 +10,7 @@
 <div class="container mt-3 w-80">
     <div data-aos="fade-right" data-aos-duration="3000" data-aos-easing="ease-in-sine">
 <div class="text-center mr-5 ml-5 mt-3">
-    <h6 class="about-us">TECHNICAL SPECIFICATION FOR DC-1401</h6>
+    <h6 class="about-us">TECHNICAL SPECIFICATION FOR 1427 –DARK CHOCOLATE PERU</h6>
 </div>
 </div>
 <div class="row">
@@ -20,11 +20,11 @@
     <table class="table tableCol mt-2 text-center">
 <tr>
     <td class="compDesc">Product Code</td>
-    <td class="compDesc">1401</td>
+    <td class="compDesc">1427</td>
 </tr>
 <tr>
     <td class="compDesc">Product Name</td>
-    <td class="compDesc">Dark Chocolate Couverture</td>
+    <td class="compDesc">Dark Chocolate Peru</td>
 </tr>
 <tr>
     <td class="compDesc">Category</td>
@@ -45,7 +45,7 @@
     <table class="table tableCol mt-2 text-center">
 <tr>
     <td class="compDesc">Ingredients</td>
-    <td class="compDesc">Cocoa Mass, Sugar, Cocoa Butter, Emulsifier (INS322) <br>
+    <td class="compDesc">Peru Cocoa Mass, Sugar, Cocoa Butter, Emulsifier (INS322) <br>
 Contains Added Natural Flavour (Vanilla Extract)</td>
 </tr>
 <tr>
@@ -76,7 +76,7 @@ Contains Added Natural Flavour (Vanilla Extract)</td>
 </tr>
 <tr>
     <td class="compDesc">Fineness</td>
-    <td class="compDesc">Approx. 18-22 mm</td>
+    <td class="compDesc">Approx. 18-22 µm</td>
 </tr>
     </table>
 </div>
@@ -86,15 +86,15 @@ Contains Added Natural Flavour (Vanilla Extract)</td>
     <table class="table tableCol mt-2 text-center">
 <tr>
     <td class="compDesc">Cocoa content</td>
-    <td class="compDesc">Min 55%</td>
+    <td class="compDesc">Min 73%</td>
 </tr>
 <tr>
     <td class="compDesc">Fat content</td>
-    <td class="compDesc">Min 33%</td>
+    <td class="compDesc">Min 44%</td>
 </tr>
 <tr>
     <td class="compDesc">Water content</td>
-    <td class="compDesc">Max 1%</td>
+    <td class="compDesc">Max 2.5%</td>
 </tr>
 <tr>
     <td class="compDesc">Melting temperature</td>
@@ -102,15 +102,15 @@ Contains Added Natural Flavour (Vanilla Extract)</td>
 </tr>
 <tr>
     <td class="compDesc">Cooling temperature</td>
-    <td class="compDesc">29.5°C – 31.5°C</td>
+    <td class="compDesc">29°C – 31°C</td>
 </tr>
 <tr>
     <td class="compDesc">Tempering temperature</td>
-    <td class="compDesc">31.5°C – 33.5°C</td>
+    <td class="compDesc">31°C – 33°C</td>
 </tr>
 <tr>
     <td class="compDesc">Working temperature</td>
-    <td class="compDesc">30°C – 32°C</td>
+    <td class="compDesc">29.5°C – 31.5°C</td>
 </tr>
 
     </table>
@@ -158,35 +158,35 @@ Contains Added Natural Flavour (Vanilla Extract)</td>
     <table class="table tableCol mt-2 text-center">
         <tr>
             <td class="compDesc">Energy</td>
-            <td class="compDesc">534.00 Kcal</td>
+            <td class="compDesc">584.00 Kcal</td>
         </tr>
         <tr>
             <td class="compDesc">Proteins</td>
-            <td class="compDesc">5.50 g</td>
+            <td class="compDesc">8.40 g</td>
         </tr>
         <tr>
             <td class="compDesc">Carbohydrates</td>
-            <td class="compDesc">47.70 g</td>
+            <td class="compDesc">31.00 g</td>
         </tr>
         <tr>
             <td class="compDesc">Sugar</td>
-            <td class="compDesc">45.00 g</td>
+            <td class="compDesc">26.60 g</td>
         </tr>
         <tr>
             <td class="compDesc">Saturated fatty acids</td>
-            <td class="compDesc">21.00 g</td>
+            <td class="compDesc">28.80 g</td>
         </tr>
         <tr>
             <td class="compDesc">Fat</td>
-            <td class="compDesc">34.00 g</td>
+            <td class="compDesc">45.20 g</td>
         </tr>
         <tr>
             <td class="compDesc">Fiber</td>
-            <td class="compDesc">7.70 g</td>
+            <td class="compDesc">9.80 g</td>
         </tr>
         <tr>
             <td class="compDesc">Sodium*</td>
-            <td class="compDesc">3.60 mg</td>
+            <td class="compDesc">8.00 mg</td>
         </tr>
     </table>
     <p class="nuts">(The nutritional characteristics are indicative and subject to changes)</p>
