@@ -24,6 +24,7 @@ crossorigin="anonymous"></script> --}}
 <link rel="stylesheet" href="{{asset('assets/css/main.css')}}">
 <link rel="stylesheet" href="{{asset('assets/css/hover-min.css')}}">
 <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+<link rel="stylesheet" href="{{asset('assets/fonts/style.css')}}">
 
 </head>
  <body>

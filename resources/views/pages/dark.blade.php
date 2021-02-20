@@ -102,7 +102,7 @@
             </div>
     </div>
     <div class="col-sm-6 col-md-6 mt-2">
-        <p>At Aaria, the “Best quality cocoa” is sourced from the “Best places in the world”. That is the reason why we bring you only the very best of Single Origin Chocolates.</p>
+        <p class="compstds">At Aaria, the “Best quality cocoa” is sourced from the “Best places in the world”. That is the reason why we bring you only the very best of Single Origin Chocolates.</p>
         <div data-aos="zoom-in-up" data-aos-duration="3000">
                <img src="{{asset('assets/images/DarkChocolates/OriginClassification.jpg')}}" class="img-fluid" alt="...">
             </div>
