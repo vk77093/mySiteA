@@ -15,7 +15,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    $title='Home-Page';
+    $title='Aaria-Chocolates';
     return view('welcome',compact('title'));
 });
 
@@ -30,6 +30,7 @@ Route::get('/milk-chocolates/dec-1506', [Webpage::class, 'dec1506']);
 Route::get('/milk-chocolates/dec-1506/technical-specification-1506', [Webpage::class, 'tech1506']);
 
 Route::get('/contact-us',[Webpage::class,'contact']);
+Route::post('/contact-us',[Webpage::class,'saveContact'])->name('contact-us.store');
 
 use App\Http\Controllers\Darkchocolates;
 Route::get('/dark-chocolates',[Darkchocolates::class,'dark']);

@@ -7,7 +7,7 @@
   <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
         <div class="navbar-nav ml-auto">
       <ul class="navbar-nav">
-          <li class="nav-item"><a href="/" class="nav-link">HOME</a></li>
+          <li class="nav-item active"><a href="/" class="nav-link">HOME</a></li>
           <li class="nav-item"><a href="/aboutus" class="nav-link">ABOUT US</a></li>
           <li class="nav-item"><a href="/ourProcess" class="nav-link">OUR PROCESS</a></li>
         <!-- Level one dropdown -->

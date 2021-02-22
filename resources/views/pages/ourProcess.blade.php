@@ -26,7 +26,11 @@
 <div class="container mt-3">
 <section class="text-center">
     <div class="mr-5 ml-5 mt-4">
+        <div data-aos="fade-right"
+     data-aos-offset="300"
+     data-aos-easing="ease-in-sine">
     <h6 class="text-bold about-us">THE END-TO-END PROCESS FROM BEAN TO CHOCOLATE</h6>
+        </div>
 </div>
 <div class="row">
     <div class="col-sm-4 col-md-4 mt-3 mb-3">

@@ -42,8 +42,8 @@ It impacts mood, health and economics and it is a part of our lives from early c
 <div class="row text-center">
     <div class="col-sm-3 mt-2">
         <figure class="figure">
- <a href=""><img src="{{asset('assets/images/FirstPage/DCIOCN.jpg')}}" class="figure-img img-fluid rounded" alt=""></a>
-  <a href="" class="links"><h4 class="text-center mt-2 mb-2 header-text-product">
+ <a href="/dark-chocolates"><img src="{{asset('assets/images/FirstPage/DCIOCN.jpg')}}" class="figure-img img-fluid rounded" alt=""></a>
+  <a href="/dark-chocolates" class="links"><h4 class="text-center mt-2 mb-2 header-text-product">
       DARK CHOCOLATE
   </h4></a>
   <figcaption class="figure-caption text-center compDesc">An exquisite selection of luxuriously rich Dark & Single Origin chocolates</figcaption>
@@ -51,8 +51,8 @@ It impacts mood, health and economics and it is a part of our lives from early c
     </div>
     <div class="col-sm-3 mt-2">
         <figure class="figure">
- <a href=""><img src="{{asset('assets/images/FirstPage/mcicon.jpg')}}" class="figure-img img-fluid rounded" alt=""></a>
-  <a href="" class="links"><h4 class="text-center mt-2 mb-2 header-text-product">
+ <a href="/milk-chocolates"><img src="{{asset('assets/images/FirstPage/mcicon.jpg')}}" class="figure-img img-fluid rounded" alt=""></a>
+  <a href="/milk-chocolates" class="links"><h4 class="text-center mt-2 mb-2 header-text-product">
      MILK CHOCOLATE
   </h4></a>
   <figcaption class="figure-caption text-center compDesc">Rich & mellow Milk chocolate with the sweet indulgence of buttery cocoa</figcaption>
@@ -60,8 +60,8 @@ It impacts mood, health and economics and it is a part of our lives from early c
     </div>
     <div class="col-sm-3 mt-2">
         <figure class="figure">
- <a href=""><img src="{{asset('assets/images/FirstPage/wcicon.jpg')}}" class="figure-img img-fluid rounded" alt=""></a>
-  <a href="" class="links"><h4 class="text-center mt-2 mb-2 header-text-product">
+ <a href="/white-chocolates"><img src="{{asset('assets/images/FirstPage/wcicon.jpg')}}" class="figure-img img-fluid rounded" alt=""></a>
+  <a href="/white-chocolates" class="links"><h4 class="text-center mt-2 mb-2 header-text-product">
       WHITE CHOCOLATE
   </h4></a>
   <figcaption class="figure-caption text-center compDesc">Luxuriously silky White chocolate with subtle notes of natural vanilla</figcaption>
@@ -69,8 +69,8 @@ It impacts mood, health and economics and it is a part of our lives from early c
     </div>
     <div class="col-sm-3 mt-2">
        <figure class="figure">
- <a href=""><img src="{{asset('assets/images/FirstPage/fillings.jpg')}}" class="figure-img img-fluid rounded" alt=""></a>
-  <a href="" class="links"><h4 class="text-center mt-2 mb-2 header-text-product">
+ <a href="/fillings"><img src="{{asset('assets/images/FirstPage/fillings.jpg')}}" class="figure-img img-fluid rounded" alt=""></a>
+  <a href="/fillings" class="links"><h4 class="text-center mt-2 mb-2 header-text-product">
      FILLINGS & PASTES
   </h4></a>
   <figcaption class="figure-caption text-center compDesc">Bold, yet smooth textured Fillings & Pastes, seamlessly fused with exotic flavours</figcaption>
@@ -80,7 +80,7 @@ It impacts mood, health and economics and it is a part of our lives from early c
     </section>
 </div>
 <!--- Video ----->
-<div class="contain">
+<div class="contai">
    <video autoplay muted loop id="myVideo" >
   <source src="{{asset('assets/images/FirstPage/VideoPlay.mp4')}}" type="video/mp4">
 </video>
@@ -210,9 +210,14 @@ It impacts mood, health and economics and it is a part of our lives from early c
 </div>
 
 </div>
-<div class="container mt-4 mb-4 text-center">
+<div data-aos="flip-left"
+     data-aos-easing="ease-out-cubic"
+     data-aos-duration="2000">
+     <div class="container mt-4 mb-4 text-center">
    <img src="{{asset('assets/images/FirstPage/Header-Slogennew.jpg')}}" class="img-fluid">
 </div>
+</div>
+
 <!--Customer Logo---->
 <div class="container-fluid mt-4 mb-4">
  <div class="text-center mr-5 ml-5">

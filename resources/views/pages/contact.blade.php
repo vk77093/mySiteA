@@ -47,7 +47,18 @@
             <div class="astrodividermask"></div><span><i>&#10038;</i></span>
         </div>
         <p class="">DROP YOUR QUERY BELOW</p>
-        <form href="" method="POST" class="text-center">
+        <div class="card-body">
+                        
+                        @if(Session::has('success'))
+                        <div class="alert alert-success">
+                            {{ Session::get('success') }}
+                            @php
+                                Session::forget('success');
+                            @endphp
+                        </div>
+                        @endif
+        <form href="{{route('contact-us.store')}}" method="POST" class="text-center">
+            @csrf
             <div class="form-group">
                 <label for="name">Name</label>
                 <input type="text" name="name" id="name" class="form-control" required>
@@ -55,6 +66,10 @@
             <div class="form-group">
                 <label for="email">Email</label>
                 <input type="email" name="email" id="email" class="form-control" required>
+            </div>
+            <div class="form-group">
+                <label for="phone">Contact Number</label>
+                <input type="number" name="phone" id="phone" class="form-control" required>
             </div>
             <div class="form-group">
                 <label for="subject">Subject</label>

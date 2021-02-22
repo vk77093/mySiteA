@@ -47,8 +47,11 @@
      <div class="col-sm-12 col-md-12">
          <section class="text-center">
              <div class="row">
+                 
                  <div class="col-sm-6 col-md-6">
-<img class="img-thumbnail sideImage" src="{{asset('assets/images/SecondPage/earlyBeg.png')}}" alt="">
+                     <div data-aos="zoom-in-right">
+<img class="img-fluid sideImage" src="{{asset('assets/images/SecondPage/earlyBeg.png')}}" alt="">
+                 </div>
                  </div>
                  <div class="col-sm-6 col-md-6">
 <h1 class="aboushead2nd">EARLY BEGINNINGS</h1>
@@ -80,9 +83,16 @@
 
  <div class="container mt-4">
      <section class="text-center">
-         <div class="mr-5 ml-5">
+         <div data-aos="fade-right"
+     data-aos-offset="300"
+     data-aos-easing="ease-in-sine">
+     <div class="mr-5 ml-5">
     <h6 class="text-bold about-us">PRODUCT RANGE</h6>
 </div>
+</div>
+         <div data-aos="fade-up"
+     data-aos-anchor-placement="top-bottom">
+
          <div class="row mt-4">
 
              <div class="col-sm-3 col-md-3">
@@ -122,6 +132,7 @@
 </figure>
              </div>
          </div>
+         
      </section>
  </div>
 
