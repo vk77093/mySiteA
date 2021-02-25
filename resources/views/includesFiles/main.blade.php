@@ -2,9 +2,20 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
+<meta name="title" content="{{$title_content ?? ''}}">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<meta name="keywords" content="htmlcss bootstrap menu, navbar, mega menu examples" />
-<meta name="description" content="Navigation  menu with submenu examples for any type of project, Bootstrap 4" />
+<meta name="keywords" content="best and Premium Chocolates in india and world" />
+<meta name="description" content="{{$descriptionTag ?? ''}}" />
+<meta name="keywords" content="{{$keywords ?? ''}}">
+<meta name="robots" content="text/html">
+<meta name="language" content="English">
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TDSTH97');</script>
+<!-- End Google Tag Manager -->
 
 <title>{{$title ?? ''}} -AARIA</title>
 <link rel="manifest" href="site.webmanifest">
@@ -31,6 +42,10 @@ crossorigin="anonymous"></script> --}}
      @include('includesFiles.nav')
 
 @yield('mainBody')
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TDSTH97"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
 @include('includesFiles.footer')
 
 <script src="{{asset('assets/javascript/main.js')}}"></script>

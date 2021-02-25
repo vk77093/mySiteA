@@ -16,7 +16,14 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
     $title='Aaria-Chocolates';
-    return view('welcome',compact('title'));
+    $title_content="Aaria chocolates Home Page, best and premium Quality of chocolates";
+    $descriptionTag= "All of us at Aaria family take great pleasure in introducing you to the very delicate but intrinsic balance of absolute purity and sheer flavour, hallmarks of the subtle, lingering delight of Aaria – Premium line of chocolates.
+    At aaria foods we manufacture  the best in class chocolates, fillings, pastes with our main motto -
+    Chocolate knows no boundaries; speaks all languages; comes in all sizes; is woven through many cultures and disciplines…
+It impacts mood, health and economics and it is a part of our lives from early childhood through elderly years.";
+    $keywords="Aariafoods, aaria, aaria the brand of premium chocolates and pastes,Best Chocolates brand in India, Chocolates company near me, premium chocolates manufacture in india, exportor of chocolates brands in India,
+     white chocolates, dark chocolate, fillings and paste manufacture and exportor from real coca beans";
+    return view('welcome',compact('title', 'title_content', 'descriptionTag','keywords'));
 });
 
 use App\Http\Controllers\Webpage;

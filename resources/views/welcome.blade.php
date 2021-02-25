@@ -80,11 +80,14 @@ It impacts mood, health and economics and it is a part of our lives from early c
     </section>
 </div>
 <!--- Video ----->
-<div class="contai">
+{{-- <div class="container-fluid d-none d-lg-block">
    <video autoplay muted loop id="myVideo" >
-  <source src="{{asset('assets/images/FirstPage/VideoPlay.mp4')}}" type="video/mp4">
+  <source src="{{asset('assets/images/FirstPage/VideoPlay.mp4')}}" class="img-fluid" type="video/mp4">
 </video>
-</div>
+</div> --}}
+<video class="video-fluid z-depth-1" autoplay loop controls muted>
+  <source src="{{asset('assets/images/FirstPage/VideoPlay.mp4')}}" type="video/mp4" />
+</video>
 <!--End of Video---->
 <!--Some Recipe Section---->
 <div class="container-fluid" id="parallax">

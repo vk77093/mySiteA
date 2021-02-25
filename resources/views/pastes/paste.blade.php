@@ -11,7 +11,7 @@
     <section class="text-center">
         <div class="row">
             <div class="col-sm-6 col-md-6">
-<img class="img-fluid" src="{{asset('assets/images/Pastes/paste-2.jpg')}}" alt="">
+<a href="/pastes/dec-3380"><img class="img-fluid" src="{{asset('assets/images/Pastes/paste-2.jpg')}}" alt=""></a>
             </div>
             <div class="col-sm-6 col-md-6" style="margin-top: 200px">
 <figure class="figure">
@@ -53,7 +53,7 @@
 
             </div>
             <div class="col-sm-6 col-md-6">
-<img class="img-fluid" src="{{asset('assets/images/Pastes/paste-1.jpg')}}" alt="">
+<a href="/pastes/dec-6737"><img class="img-fluid" src="{{asset('assets/images/Pastes/paste-1.jpg')}}" alt=""></a>
             </div>
         </div>
     </section>
