@@ -3,7 +3,7 @@
 <div id="carouselExampleControls" class="carsoule slide" data-ride="carousel"style="margin-top: 50px">
 <div class="carousel-inner">
  <div class="carousel-item active">
-     <img src="{{asset('assets/images/Fillings/Coffee-Filling-4832Header.jpg')}}" class="d-block w-100" alt="...">
+     <img src="{{asset('assets/images/Fillings/Coffee-Filling-4832Header.jpg')}}" class="d-block w-100" alt="coffee fillings header by aariafoods">
     </div>
 </div>
 </div>
@@ -81,15 +81,15 @@
 <div class="container w-50 mt-5">
     <div class="row justify-content-md-center">
 <div class="col-sm-4">
-    <div class="img hvr-float-shadow"><a href="/fillings/dec-4836"><img src="{{asset('assets/images/Fillings/hazelnut-20-Bot.jpg')}}" class="img-fluid center-block lazy" loading="lazy" alt="Responsive image"></a></div>
+    <div class="img hvr-float-shadow"><a href="/fillings/dec-4836"><img src="{{asset('assets/images/Fillings/hazelnut-20-Bot.jpg')}}" class="img-fluid center-block lazy" loading="lazy" alt="hazelnuts 20% Fillings"></a></div>
     <p class="text-center recip mt-2">RECIPE NO° 4836</p>
 </div>
 <div class="col-sm-4">
-<div class="img hvr-float-shadow"><a href="/fillings/dec-4839"><img src="{{asset('assets/images/Fillings/yogurt-strawberry-bot.jpg')}}" class="img-fluid center-block lazy" loading="lazy" alt="Responsive image"></a></div>
+<div class="img hvr-float-shadow"><a href="/fillings/dec-4839"><img src="{{asset('assets/images/Fillings/yogurt-strawberry-bot.jpg')}}" class="img-fluid center-block lazy" loading="lazy" alt="yogurt strawberry fillings"></a></div>
 <p class="text-center recip mt-2">RECIPE NO° 4839</p>
 </div>
 <div class="col-sm-4">
-    <div class="img hvr-float-shadow"><a href="/fillings/dec-4840"><img src="{{asset('assets/images/Fillings/strawberry-filling-Bot.jpg')}}" class="img-fluid center-block lazy" loading="lazy" alt="Responsive image"></a></div>
+    <div class="img hvr-float-shadow"><a href="/fillings/dec-4840"><img src="{{asset('assets/images/Fillings/strawberry-filling-Bot.jpg')}}" class="img-fluid center-block lazy" loading="lazy" alt="strawberry fillings"></a></div>
     <p class="text-center recip mt-2">RECIPE NO° 4840</p>
 </div>
     </div>

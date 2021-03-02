@@ -1,6 +1,6 @@
 
 <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top mt-1">
-  <a class="navbar-brand" href="/"><img src="{{asset('assets/images/FirstPage/AARIALOGO_liteBrown.png')}}" class="img-fluid nav-image"></a>
+  <a class="navbar-brand" href="/"><img src="{{asset('assets/images/FirstPage/AARIALOGO_liteBrown.png')}}" class="img-fluid nav-image" alt="aariafoods logo"></a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>

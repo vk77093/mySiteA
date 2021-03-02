@@ -3,7 +3,7 @@
 <div id="carouselExampleControls" class="carsoule slide" data-ride="carousel"style="margin-top: 50px">
 <div class="carousel-inner">
  <div class="carousel-item active">
-     <img src="{{asset('assets/images/Fillings/Cardamom-Header.jpg')}}" class="d-block w-100" alt="...">
+     <img src="{{asset('assets/images/Fillings/Cardamom-Header.jpg')}}" class="d-block w-100" alt="Cardamom header for aariafoods fillings">
     </div>
 </div>
 </div>
@@ -85,15 +85,15 @@
     <div class="row justify-content-md-center">
 
 <div class="col-sm-4">
-    <div class="img hvr-float-shadow"><a href="/fillings/dec-4864"><img src="{{asset('assets/images/Fillings/hazel-nut-geltao-Bot.jpg')}}" class="img-fluid center-block lazy" loading="lazy" alt="Responsive image"></a></div>
+    <div class="img hvr-float-shadow"><a href="/fillings/dec-4864"><img src="{{asset('assets/images/Fillings/hazel-nut-geltao-Bot.jpg')}}" class="img-fluid center-block lazy" loading="lazy" alt="hazel nut geltao fillings"></a></div>
     <p class="text-center recip mt-2">RECIPE NO° 4864</p>
 </div>
 <div class="col-sm-4">
-<div class="img hvr-float-shadow"><a href="/fillings/dec-4832"><img src="{{asset('assets/images/Fillings/Coffee-Filling-4832-Bot.jpg')}}" class="img-fluid center-block lazy" loading="lazy" alt="Responsive image"></a></div>
+<div class="img hvr-float-shadow"><a href="/fillings/dec-4832"><img src="{{asset('assets/images/Fillings/Coffee-Filling-4832-Bot.jpg')}}" class="img-fluid center-block lazy" loading="lazy" alt="coffee fillings"></a></div>
 <p class="text-center recip mt-2">RECIPE NO° 4832</p>
 </div>
 <div class="col-sm-4">
-    <div class="img hvr-float-shadow"><a href="/fillings/dec-4836"><img src="{{asset('assets/images/Fillings/hazelnut-20-Bot.jpg')}}" class="img-fluid center-block lazy" loading="lazy" alt="Responsive image"></a></div>
+    <div class="img hvr-float-shadow"><a href="/fillings/dec-4836"><img src="{{asset('assets/images/Fillings/hazelnut-20-Bot.jpg')}}" class="img-fluid center-block lazy" loading="lazy" alt="hazelnut 20% guleato fillings"></a></div>
     <p class="text-center recip mt-2">RECIPE NO° 4836</p>
 </div>
     </div>

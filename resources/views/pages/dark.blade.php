@@ -3,7 +3,7 @@
   <div id="carouselExampleControls" class="carsoule slide" data-ride="carousel"style="margin-top: 50px">
 <div class="carousel-inner">
  <div class="carousel-item active">
-     <img src="{{asset('assets/images/DarkChocolates/dark.jpg')}}" class="d-block w-100" alt="...">
+     <img src="{{asset('assets/images/DarkChocolates/dark.jpg')}}" class="d-block w-100" alt="aariafoods dark chcoclate header image">
     </div>
 </div>
 </div>
@@ -12,12 +12,12 @@
         <div class="row">
             <div class="col-md-6 col-sm-6">
  <div data-aos="zoom-in" data-aos-duration="3000">
-               <img src="{{asset('assets/images/DarkChocolates/dc-1401head.jpg')}}" class="img-fluid" alt="...">
+               <img src="{{asset('assets/images/DarkChocolates/dc-1401head.jpg')}}" class="img-fluid" alt="aariafoods DARK CHOCOLATE COUVERTURE -1401">
             </div>
                 </div>
                 <div class="col-md-6 col-sm-6 text-center" style="margin-top: 150px">
                     <div data-aos="fade-right" data-aos-duration="3000" data-aos-easing="ease-in-sine">
-                    <img src="{{asset('assets/images/DarkChocolates/dcdes.jpg')}}" class="img-fluid hvr-bounce-in" alt="...">
+                    <img src="{{asset('assets/images/DarkChocolates/dcdes.jpg')}}" class="img-fluid hvr-bounce-in" alt="chocolates range list from aariafoods">
                 </div>
             </div>
         </div>
@@ -31,7 +31,7 @@
 <div class="row">
 <div class="col-sm-4 col-md-4 mt-4">
     <figure class="figure">
- <a href="/dark-chocolates/dec-1401"><img src="{{asset('assets/images/DarkChocolates/1401.jpg')}}" alt="" class="figure-img img-fluid bordered hvr-float-shadow lazy" loading="lazy"></a>
+ <a href="/dark-chocolates/dec-1401"><img src="{{asset('assets/images/DarkChocolates/1401.jpg')}}" alt="dark chocolate couvertures 1401" class="figure-img img-fluid bordered hvr-float-shadow lazy" loading="lazy"></a>
  <figcaption class="figure-caption text-center">
      <p class="header-text-product">DARK CHOCOLATE COUVERTURE</p>
      <div class="astrodivider">
@@ -49,7 +49,7 @@
 
     <div class="col-sm-4 col-md-4 mt-4">
     <figure class="figure">
- <a href="/dark-chocolates/dec-1407"><img src="{{asset('assets/images/DarkChocolates/1407.jpg')}}" alt="" class="figure-img img-fluid bordered hvr-float-shadow lazy" loading="lazy"></a>
+ <a href="/dark-chocolates/dec-1407"><img src="{{asset('assets/images/DarkChocolates/1407.jpg')}}" alt="dark chocolate couvertures 1407" class="figure-img img-fluid bordered hvr-float-shadow lazy" loading="lazy"></a>
  <figcaption class="figure-caption text-center">
      <p class="header-text-product">DARK CHOCOLATE COUVERTURE</p>
      <div class="astrodivider">
@@ -67,7 +67,7 @@
 
     <div class="col-sm-4 col-md-4 mt-4">
     <figure class="figure">
- <a href="/dark-chocolates/dec-1413"><img src="{{asset('assets/images/DarkChocolates/1413.jpg')}}" alt="" class="figure-img img-fluid bordered hvr-float-shadow lazy" loading="lazy"></a>
+ <a href="/dark-chocolates/dec-1413"><img src="{{asset('assets/images/DarkChocolates/1413.jpg')}}" alt="dark chocolate couvertures 1413" class="figure-img img-fluid bordered hvr-float-shadow lazy" loading="lazy"></a>
  <figcaption class="figure-caption text-center">
      <p class="header-text-product"> DARK CHOCOLATE COUVERTURE </p>
      <div class="astrodivider">
@@ -98,13 +98,13 @@
 <div class="row">
     <div class="col-sm-6 col-md-6 mt-4">
         <div data-aos="zoom-in-down" data-aos-duration="3000">
-               <img src="{{asset('assets/images/DarkChocolates/01.jpg')}}" class="img-fluid" alt="...">
+               <img src="{{asset('assets/images/DarkChocolates/01.jpg')}}" class="img-fluid" alt="dark chocolate origin">
             </div>
     </div>
     <div class="col-sm-6 col-md-6 mt-2">
         <p class="compstds">At Aaria, the “Best quality cocoa” is sourced from the “Best places in the world”. That is the reason why we bring you only the very best of Single Origin Chocolates.</p>
         <div data-aos="zoom-in-up" data-aos-duration="3000">
-               <img src="{{asset('assets/images/DarkChocolates/OriginClassification.jpg')}}" class="img-fluid" alt="...">
+               <img src="{{asset('assets/images/DarkChocolates/OriginClassification.jpg')}}" class="img-fluid" alt="dark chocolate origin range by aariafoods">
             </div>
     </div>
 </div>
@@ -115,7 +115,7 @@
         <div class="row">
             <div class="col-sm-4 col-md-4 mt-4">
     <figure class="figure">
- <a href="/dark-chocolates/dec-1388"><img src="{{asset('assets/images/DarkChocolates/1388.jpg')}}" alt="" class="figure-img img-fluid bordered hvr-float-shadow lazy" loading="lazy"></a>
+ <a href="/dark-chocolates/dec-1388"><img src="{{asset('assets/images/DarkChocolates/1388.jpg')}}" alt="DARK CHOCOLATE ST. DOMINGO" class="figure-img img-fluid bordered hvr-float-shadow lazy" loading="lazy"></a>
  <figcaption class="figure-caption text-center">
      <p class="header-text-product"> DARK CHOCOLATE ST. DOMINGO </p>
      <div class="astrodivider">
@@ -132,7 +132,7 @@
     </div>
     <div class="col-sm-4 col-md-4 mt-4">
     <figure class="figure">
- <a href="/dark-chocolates/dec-1406"><img src="{{asset('assets/images/DarkChocolates/1406.jpg')}}" alt="" class="figure-img img-fluid bordered hvr-float-shadow lazy" loading="lazy"></a>
+ <a href="/dark-chocolates/dec-1406"><img src="{{asset('assets/images/DarkChocolates/1406.jpg')}}" alt="DARK CHOCOLATE ECUADOR" class="figure-img img-fluid bordered hvr-float-shadow lazy" loading="lazy"></a>
  <figcaption class="figure-caption text-center">
      <p class="header-text-product"> DARK CHOCOLATE ECUADOR </p>
      <div class="astrodivider">
@@ -149,7 +149,7 @@
     </div>
     <div class="col-sm-4 col-md-4 mt-4">
     <figure class="figure">
- <a href="/dark-chocolates/dec-1427"><img src="{{asset('assets/images/DarkChocolates/1427.jpg')}}" alt="" class="figure-img img-fluid bordered hvr-float-shadow lazy" loading="lazy"></a>
+ <a href="/dark-chocolates/dec-1427"><img src="{{asset('assets/images/DarkChocolates/1427.jpg')}}" alt="DARK CHOCOLATE PERU" class="figure-img img-fluid bordered hvr-float-shadow lazy" loading="lazy"></a>
  <figcaption class="figure-caption text-center">
      <p class="header-text-product"> DARK CHOCOLATE PERU </p>
      <div class="astrodivider">
@@ -167,7 +167,7 @@
 
     <div class="col-sm-4 col-md-4 mt-4">
     <figure class="figure">
- <a href="/dark-chocolates/dec-1440"><img src="{{asset('assets/images/DarkChocolates/1440.jpg')}}" alt="" class="figure-img img-fluid bordered hvr-float-shadow lazy" loading="lazy"></a>
+ <a href="/dark-chocolates/dec-1440"><img src="{{asset('assets/images/DarkChocolates/1440.jpg')}}" alt="DARK CHOCOLATE VENEZUELA" class="figure-img img-fluid bordered hvr-float-shadow lazy" loading="lazy"></a>
  <figcaption class="figure-caption text-center">
      <p class="header-text-product"> DARK CHOCOLATE VENEZUELA </p>
      <div class="astrodivider">
@@ -185,7 +185,7 @@
 
     <div class="col-sm-4 col-md-4 mt-4">
     <figure class="figure">
- <a href="/dark-chocolates/dec-1441"><img src="{{asset('assets/images/DarkChocolates/1441.jpg')}}" alt="" class="figure-img img-fluid bordered hvr-float-shadow lazy" loading="lazy"></a>
+ <a href="/dark-chocolates/dec-1441"><img src="{{asset('assets/images/DarkChocolates/1441.jpg')}}" alt="DARK CHOCOLATE MADAGASCAR" class="figure-img img-fluid bordered hvr-float-shadow lazy" loading="lazy"></a>
  <figcaption class="figure-caption text-center">
      <p class="header-text-product"> DARK CHOCOLATE MADAGASCAR </p>
      <div class="astrodivider">
@@ -203,7 +203,7 @@
 
     <div class="col-sm-4 col-md-4 mt-4">
     <figure class="figure">
- <a href="/dark-chocolates/dec-1442"><img src="{{asset('assets/images/DarkChocolates/1442.jpg')}}" alt="" class="figure-img img-fluid bordered hvr-float-shadow lazy" loading="lazy"></a>
+ <a href="/dark-chocolates/dec-1442"><img src="{{asset('assets/images/DarkChocolates/1442.jpg')}}" alt="DARK CHOCOLATE JAMAICA" class="figure-img img-fluid bordered hvr-float-shadow lazy" loading="lazy"></a>
  <figcaption class="figure-caption text-center">
      <p class="header-text-product"> DARK CHOCOLATE JAMAICA </p>
      <div class="astrodivider">

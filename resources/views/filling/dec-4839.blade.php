@@ -3,7 +3,7 @@
 <div id="carouselExampleControls" class="carsoule slide" data-ride="carousel"style="margin-top: 50px">
 <div class="carousel-inner">
  <div class="carousel-item active">
-     <img src="{{asset('assets/images/Fillings/StrawberryYogurtFilling4839Header.jpg')}}" class="d-block w-100" alt="...">
+     <img src="{{asset('assets/images/Fillings/StrawberryYogurtFilling4839Header.jpg')}}" class="d-block w-100" alt="yogurt fillings header for aariafoods">
     </div>
 </div>
 </div>
@@ -84,15 +84,15 @@
 <div class="container w-50 mt-5">
     <div class="row justify-content-md-center">
 <div class="col-sm-4">
-    <div class="img hvr-float-shadow"><a href="/fillings/dec-4840"><img src="{{asset('assets/images/Fillings/strawberry-filling-Bot.jpg')}}" class="img-fluid center-block lazy" loading="lazy" alt="Responsive image"></a></div>
+    <div class="img hvr-float-shadow"><a href="/fillings/dec-4840"><img src="{{asset('assets/images/Fillings/strawberry-filling-Bot.jpg')}}" class="img-fluid center-block lazy" loading="lazy" alt="strawberry fillings"></a></div>
     <p class="text-center recip mt-2">RECIPE NO° 4840</p>
 </div>
 <div class="col-sm-4">
-    <div class="img hvr-float-shadow"><a href="/fillings/dec-4841"><img src="{{asset('assets/images/Fillings/caramel-fillingBot.jpg')}}" class="img-fluid center-block lazy" loading="lazy" alt="Responsive image"></a></div>
+    <div class="img hvr-float-shadow"><a href="/fillings/dec-4841"><img src="{{asset('assets/images/Fillings/caramel-fillingBot.jpg')}}" class="img-fluid center-block lazy" loading="lazy" alt="caramel fillings"></a></div>
     <p class="text-center recip mt-2">RECIPE NO° 4841</p>
 </div>
 <div class="col-sm-4">
-<div class="img hvr-float-shadow"><a href="/fillings/dec-4847"><img src="{{asset('assets/images/Fillings/Chocomint-fillinh-Bot.jpg')}}" class="img-fluid center-block lazy" loading="lazy" alt="Responsive image"></a></div>
+<div class="img hvr-float-shadow"><a href="/fillings/dec-4847"><img src="{{asset('assets/images/Fillings/Chocomint-fillinh-Bot.jpg')}}" class="img-fluid center-block lazy" loading="lazy" alt="choco mint fillings"></a></div>
 <p class="text-center recip mt-2">RECIPE NO° 4847</p>
 </div>
     </div>

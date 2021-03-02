@@ -3,7 +3,8 @@
 <div id="carouselExampleControls" class="carsoule slide" data-ride="carousel"style="margin-top: 50px">
 <div class="carousel-inner">
  <div class="carousel-item active">
-     <img src="{{asset('assets/images/WhiteChocolates/White-1608Header.jpg')}}" class="d-block w-100" alt="...">
+
+     <img src="{{asset('assets/images/WhiteChocolates/White-1608Header.jpg')}}" class="d-block w-100" alt="aariafoods white chocolate header">
     </div>
 </div>
 </div>
@@ -81,7 +82,7 @@ Contains Added Natural Flavour (Vanilla Extract)</span><br>
     </div>
         <div class="row product-top">
 <div class="col-sm-7 col-md-7 text-center">
-<img src="{{asset('assets/images/WhiteChocolates/1608-Recipe-1024x683.jpg')}}" class="img-fluid hvr-float-shadow lazy" loading="lazy">
+<img src="{{asset('assets/images/WhiteChocolates/1608-Recipe-1024x683.jpg')}}" class="img-fluid hvr-float-shadow lazy" loading="lazy" alt="WHITE CHOCOLATE AND MANGO MINT GANACHE recipe by aariafoods">
 </div>
 <div class="col-sm-5 col-md-5 text-center">
 <table class="table tableCol">

@@ -3,7 +3,7 @@
 <div id="carouselExampleControls" class="carsoule slide" data-ride="carousel"style="margin-top: 50px">
 <div class="carousel-inner">
  <div class="carousel-item active">
-     <img src="{{asset('assets/images/Fillings/Coffee-Filling-4832Header.jpg')}}" class="d-block w-100" alt="...">
+     <img src="{{asset('assets/images/Fillings/Coffee-Filling-4832Header.jpg')}}" class="d-block w-100" alt="coffee fillings header by aariafoods">
     </div>
 </div>
 </div>
@@ -81,15 +81,15 @@
     <div class="row justify-content-md-center">
 
 <div class="col-sm-4">
-    <div class="img hvr-float-shadow"><a href="/fillings/dec-4841"><img src="{{asset('assets/images/Fillings/caramel-fillingBot.jpg')}}" class="img-fluid center-block lazy" loading="lazy" alt="Responsive image"></a></div>
+    <div class="img hvr-float-shadow"><a href="/fillings/dec-4841"><img src="{{asset('assets/images/Fillings/caramel-fillingBot.jpg')}}" class="img-fluid center-block lazy" loading="lazy" alt="caramel fillings"></a></div>
     <p class="text-center recip mt-2">RECIPE NO° 4841</p>
 </div>
 <div class="col-sm-4">
-<div class="img hvr-float-shadow"><a href="/fillings/dec-4847"><img src="{{asset('assets/images/Fillings/Chocomint-fillinh-Bot.jpg')}}" class="img-fluid center-block lazy" loading="lazy" alt="Responsive image"></a></div>
+<div class="img hvr-float-shadow"><a href="/fillings/dec-4847"><img src="{{asset('assets/images/Fillings/Chocomint-fillinh-Bot.jpg')}}" class="img-fluid center-block lazy" loading="lazy" alt="choco mint fillings"></a></div>
 <p class="text-center recip mt-2">RECIPE NO° 4847</p>
 </div>
 <div class="col-sm-4">
-    <div class="img hvr-float-shadow"><a href="/fillings/dec-4854"><img src="{{asset('assets/images/Fillings/Rose-filling-bot.jpg')}}" class="img-fluid center-block lazy" loading="lazy" alt="Responsive image"></a></div>
+    <div class="img hvr-float-shadow"><a href="/fillings/dec-4854"><img src="{{asset('assets/images/Fillings/Rose-filling-bot.jpg')}}" class="img-fluid center-block lazy" loading="lazy" alt="rose fillings"></a></div>
     <p class="text-center recip mt-2">RECIPE NO° 4854</p>
 </div>
     </div>

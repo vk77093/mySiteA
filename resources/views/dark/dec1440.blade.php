@@ -154,15 +154,15 @@
 <div class="container w-50 mt-5">
     <div class="row justify-content-md-center">
 <div class="col-sm-4">
-    <div class="img hvr-float-shadow"><a href="/dark-chocolates/dec-1441"><img src="{{asset('assets/images/DarkChocolates/1441Bot.jpg')}}" class="img-fluid center-block lazy" loading="lazy" alt="Responsive image"></a></div>
+    <div class="img hvr-float-shadow"><a href="/dark-chocolates/dec-1441"><img src="{{asset('assets/images/DarkChocolates/1441Bot.jpg')}}" class="img-fluid center-block lazy" loading="lazy" alt="aariafoods dark chcolates-1441"></a></div>
     <p class="text-center recip mt-2">RECIPE NO° 1441</p>
 </div>
 <div class="col-sm-4">
-    <div class="img hvr-float-shadow"><a href="/dark-chocolates/dec-1442"><img src="{{asset('assets/images/DarkChocolates/1442Bot.jpg')}}" class="img-fluid center-block lazy" loading="lazy" alt="Responsive image"></a></div>
+    <div class="img hvr-float-shadow"><a href="/dark-chocolates/dec-1442"><img src="{{asset('assets/images/DarkChocolates/1442Bot.jpg')}}" class="img-fluid center-block lazy" loading="lazy" alt="aariafoods dark chcolates-1442"></a></div>
     <p class="text-center recip mt-2">RECIPE NO° 1442</p>
 </div>
 <div class="col-sm-4">
-<div class="img hvr-float-shadow"><a href="/dark-chocolates/dec-1388"><img src="{{asset('assets/images/DarkChocolates/1506Bot.jpg')}}" class="img-fluid center-block lazy" loading="lazy" alt="Responsive image"></a></div>
+<div class="img hvr-float-shadow"><a href="/milk-chocolates/dec-1506"><img src="{{asset('assets/images/DarkChocolates/1506Bot.jpg')}}" class="img-fluid center-block lazy" loading="lazy" alt="aariafoods milk chcolates-1506"></a></div>
 <p class="text-center recip mt-2">RECIPE NO° 1506</p>
 </div>
     </div>

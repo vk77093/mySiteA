@@ -3,7 +3,7 @@
  <div id="carouselExampleControls" class="carsoule slide" data-ride="carousel"style="margin-top: 50px">
 <div class="carousel-inner">
  <div class="carousel-item active">
-     <img src="{{asset('assets/images/MilkChocolates/Milk-Chocolate-Drop.jpg')}}" class="d-block w-100" alt="...">
+     <img src="{{asset('assets/images/MilkChocolates/Milk-Chocolate-Drop.jpg')}}" class="d-block w-100" alt="milk chcolates header for aariafoods">
     </div>
 </div>
 </div>

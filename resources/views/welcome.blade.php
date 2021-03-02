@@ -4,16 +4,16 @@
 <div id="carouselExampleControls" class="carousel slide" data-ride="carousel" style="margin-top: 50px">
   <div class="carousel-inner">
     <div class="carousel-item active">
-     <img src="{{asset('assets/images/FirstPage/cocoHeaderCarsolse.jpg')}}" class="d-block w-100" alt="...">
+     <img src="{{asset('assets/images/FirstPage/cocoHeaderCarsolse.jpg')}}" class="d-block w-100" alt="aariafoods cocoa beand to chcoclate process ">
     </div>
     <div class="carousel-item">
-      <img src="{{asset('assets/images/FirstPage/CarsolehandImage.jpg')}}" class="d-block w-100" alt="...">
+      <img src="{{asset('assets/images/FirstPage/CarsolehandImage.jpg')}}" class="d-block w-100" alt="best and premimum Quality of chcolates, fillings and paste">
     </div>
     <div class="carousel-item">
-      <img src="{{asset('assets/images/FirstPage/CarsoleSpoonIamge.jpg')}}" class="d-block w-100" alt="...">
+      <img src="{{asset('assets/images/FirstPage/CarsoleSpoonIamge.jpg')}}" class="d-block w-100" alt="aariafoods- the premimum line of chocolats">
     </div>
     <div class="carousel-item">
-      <img src="{{asset('assets/images/FirstPage/pasteImage.jpg')}}" class="d-block w-100" alt="...">
+      <img src="{{asset('assets/images/FirstPage/pasteImage.jpg')}}" class="d-block w-100" alt="premimum and best quality of fillings and paste range from aariafoods">
     </div>
   <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -42,7 +42,7 @@ It impacts mood, health and economics and it is a part of our lives from early c
 <div class="row text-center">
     <div class="col-sm-3 mt-2">
         <figure class="figure">
- <a href="/dark-chocolates"><img src="{{asset('assets/images/FirstPage/DCIOCN.jpg')}}" class="figure-img img-fluid rounded" alt=""></a>
+ <a href="/dark-chocolates"><img src="{{asset('assets/images/FirstPage/DCIOCN.jpg')}}" class="figure-img img-fluid rounded" alt="dark chcoolates icons by aariafoods"></a>
   <a href="/dark-chocolates" class="links"><h4 class="text-center mt-2 mb-2 header-text-product">
       DARK CHOCOLATE
   </h4></a>
@@ -51,7 +51,7 @@ It impacts mood, health and economics and it is a part of our lives from early c
     </div>
     <div class="col-sm-3 mt-2">
         <figure class="figure">
- <a href="/milk-chocolates"><img src="{{asset('assets/images/FirstPage/mcicon.jpg')}}" class="figure-img img-fluid rounded" alt=""></a>
+ <a href="/milk-chocolates"><img src="{{asset('assets/images/FirstPage/mcicon.jpg')}}" class="figure-img img-fluid rounded" alt="Milk chocolate icons by aariafoods"></a>
   <a href="/milk-chocolates" class="links"><h4 class="text-center mt-2 mb-2 header-text-product">
      MILK CHOCOLATE
   </h4></a>
@@ -60,7 +60,7 @@ It impacts mood, health and economics and it is a part of our lives from early c
     </div>
     <div class="col-sm-3 mt-2">
         <figure class="figure">
- <a href="/white-chocolates"><img src="{{asset('assets/images/FirstPage/wcicon.jpg')}}" class="figure-img img-fluid rounded" alt=""></a>
+ <a href="/white-chocolates"><img src="{{asset('assets/images/FirstPage/wcicon.jpg')}}" class="figure-img img-fluid rounded" alt="white chocolate icons by aariafoods"></a>
   <a href="/white-chocolates" class="links"><h4 class="text-center mt-2 mb-2 header-text-product">
       WHITE CHOCOLATE
   </h4></a>
@@ -69,7 +69,7 @@ It impacts mood, health and economics and it is a part of our lives from early c
     </div>
     <div class="col-sm-3 mt-2">
        <figure class="figure">
- <a href="/fillings"><img src="{{asset('assets/images/FirstPage/fillings.jpg')}}" class="figure-img img-fluid rounded" alt=""></a>
+ <a href="/fillings"><img src="{{asset('assets/images/FirstPage/fillings.jpg')}}" class="figure-img img-fluid rounded" alt="Fillings & Pastes icons by aariafoods"></a>
   <a href="/fillings" class="links"><h4 class="text-center mt-2 mb-2 header-text-product">
      FILLINGS & PASTES
   </h4></a>
@@ -87,7 +87,7 @@ It impacts mood, health and economics and it is a part of our lives from early c
 </div> --}}
 <div class="container-fluid">
     <video class="video-fluid z-depth-1" autoplay loop controls muted>
-  <source src="{{asset('assets/images/FirstPage/VideoPlay.mp4')}}" type="video/mp4" />
+  <source src="{{asset('assets/images/FirstPage/VideoPlay.mp4')}}" type="video/mp4"/>
 </video>
 </div>
 <!--End of Video---->
@@ -204,13 +204,13 @@ It impacts mood, health and economics and it is a part of our lives from early c
 
 <div class="row no-gutters">
     <div class="col-sm-4 col-md-4 mt-2">
-<img src="{{asset('assets/images/FirstPage/DCcarsoule1.jpg')}}" class="img-fluid hvr-shrink">
+<img src="{{asset('assets/images/FirstPage/DCcarsoule1.jpg')}}" class="img-fluid hvr-shrink" alt="aariafoods range of dark chocolates">
     </div>
     <div class="col-sm-4 col-md-4 mt-2">
-<img src="{{asset('assets/images/FirstPage/Milkcarsoule2.jpg')}}" class="img-fluid hvr-shrink">
+<img src="{{asset('assets/images/FirstPage/Milkcarsoule2.jpg')}}" class="img-fluid hvr-shrink" alt="aariafoods range of milk chocolates">
     </div>
     <div class="col-sm-4 col-md-4 mt-2">
-<img src="{{asset('assets/images/FirstPage/whiteCarsoule3.jpg')}}" class="img-fluid hvr-shrink">
+<img src="{{asset('assets/images/FirstPage/whiteCarsoule3.jpg')}}" class="img-fluid hvr-shrink" alt="aariafoods range of white chocolates">
     </div>
 </div>
 
@@ -219,7 +219,7 @@ It impacts mood, health and economics and it is a part of our lives from early c
      data-aos-easing="ease-out-cubic"
      data-aos-duration="2000">
      <div class="container mt-4 mb-4 text-center">
-   <img src="{{asset('assets/images/FirstPage/Header-Slogennew.jpg')}}" class="img-fluid">
+   <img src="{{asset('assets/images/FirstPage/Header-Slogennew.jpg')}}" class="img-fluid" alt="aarifoods main slogen header">
 </div>
 </div>
 
@@ -229,15 +229,15 @@ It impacts mood, health and economics and it is a part of our lives from early c
     <h6 class="text-bold about-us">OUR CERTIFICATIONS</h6>
 </div>
    <section class="customer-logos slider">
-      <div class="slide"><img src="{{asset('assets/images/FirstPage/koshar_Upadte.png')}}" class="hvr-grow"></div>
-      <div class="slide"><img src="{{asset('assets/images/FirstPage/KosharJ.png')}}" class="hvr-grow"></div>
-      <div class="slide"><img src="{{asset('assets/images/FirstPage/natureicon.png')}}" class="hvr-grow"></div>
-      <div class="slide"><img src="{{asset('assets/images/FirstPage/utzicon.png')}}" class="hvr-grow"></div>
-      <div class="slide"><img src="{{asset('assets/images/FirstPage/ifsicon.png')}}" class="hvr-grow"></div>
-      <div class="slide"><img src="{{asset('assets/images/FirstPage/hallaItaliaicon.png')}}" class="hvr-grow"></div>
-      <div class="slide"><img src="{{asset('assets/images/FirstPage/fairTradeicon.png')}}" class="hvr-grow"></div>
-      <div class="slide"><img src="{{asset('assets/images/FirstPage/brcicon.png')}}" class="hvr-grow"></div>
-      <div class="slide"><img src="{{asset('assets/images/FirstPage/koshar_Upadte.png')}}" class="hvr-grow"></div>
+      <div class="slide"><img src="{{asset('assets/images/FirstPage/koshar_Upadte.png')}}" class="hvr-grow" alt="aariafoods koshar certificate"></div>
+      <div class="slide"><img src="{{asset('assets/images/FirstPage/KosharJ.png')}}" class="hvr-grow" alt="aariafoods kosharJ certificate"></div>
+      <div class="slide"><img src="{{asset('assets/images/FirstPage/natureicon.png')}}" class="hvr-grow" alt="aariafoods nature certificate"></div>
+      <div class="slide"><img src="{{asset('assets/images/FirstPage/utzicon.png')}}" class="hvr-grow" alt="aariafoods utz certificate"></div>
+      <div class="slide"><img src="{{asset('assets/images/FirstPage/ifsicon.png')}}" class="hvr-grow" alt="aariafoods ifs certificate"></div>
+      <div class="slide"><img src="{{asset('assets/images/FirstPage/hallaItaliaicon.png')}}" class="hvr-grow" alt="aariafoods hallal italian certificate"></div>
+      <div class="slide"><img src="{{asset('assets/images/FirstPage/fairTradeicon.png')}}" class="hvr-grow" alt="aariafoods fair Trader certificate"></div>
+      <div class="slide"><img src="{{asset('assets/images/FirstPage/brcicon.png')}}" class="hvr-grow" alt="aariafoods brc certificate"></div>
+      <div class="slide"><img src="{{asset('assets/images/FirstPage/koshar_Upadte.png')}}" class="hvr-grow" alt="aariafoods koshar certificate"></div>
    </section>
 </div>
 <!--end of Customer Logo----->

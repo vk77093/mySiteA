@@ -6,7 +6,7 @@
 <div id="carouselExampleControls" class="carousel slide" data-ride="carousel" style="margin-top: 50px">
 <div class="carousel-inner">
  <div class="carousel-item active">
-     <img src="{{asset('assets/images/SecondPage/aboutUs.jpg')}}" class="d-block w-100" alt="...">
+     <img src="{{asset('assets/images/SecondPage/aboutUs.jpg')}}" class="d-block w-100" alt="coco beans with aariafoods about us">
     </div>
 </div>
 </div>
@@ -47,10 +47,10 @@
      <div class="col-sm-12 col-md-12">
          <section class="text-center">
              <div class="row">
-                 
+
                  <div class="col-sm-6 col-md-6">
                      <div data-aos="zoom-in-right">
-<img class="img-fluid sideImage" src="{{asset('assets/images/SecondPage/earlyBeg.png')}}" alt="">
+<img class="img-fluid sideImage" src="{{asset('assets/images/SecondPage/earlyBeg.png')}}" alt="coco beans">
                  </div>
                  </div>
                  <div class="col-sm-6 col-md-6">
@@ -67,14 +67,14 @@
          <div class="row">
         <div class="col-sm-6 col-md-6">
  <figure class="figure">
- <a href=""><img src="{{asset('assets/images/SecondPage/crea.jpg')}}" class="figure-img img-fluid rounded" alt=""></a>
- <a href=""> <figcaption class="figure-caption text-center"><img src="{{asset('assets/images/SecondPage/creaLogo.png')}}" class="figure-img img-fluid rounded" alt=""></figcaption></a>
+ <a href="https://www.creasrl.it/en/"><img src="{{asset('assets/images/SecondPage/crea.jpg')}}" class="figure-img img-fluid rounded" alt="crea buliding image tieup partner of aariafoods"></a>
+ <a href="https://www.creasrl.it/en/"> <figcaption class="figure-caption text-center"><img src="{{asset('assets/images/SecondPage/creaLogo.png')}}" class="figure-img img-fluid rounded" alt="crea logo"></figcaption></a>
 </figure>
             </div>
             <div class="col-sm-6 col-md-6">
                 <figure class="figure">
- <a href=""><img src="{{asset('assets/images/SecondPage/fciBuilding.jpg')}}" class="figure-img img-fluid rounded" alt=""></a>
- <a href=""> <figcaption class="figure-caption text-center"><img src="{{asset('assets/images/SecondPage/aariaRedLogo.png')}}" class="figure-img img-fluid rounded" alt=""></figcaption></a>
+ <a href="http://www.foodcoast.com/"><img src="{{asset('assets/images/SecondPage/fciBuilding.jpg')}}" class="figure-img img-fluid rounded" alt="foodcoast international building front face"></a>
+ <a href="http://www.foodcoast.com/"> <figcaption class="figure-caption text-center"><img src="{{asset('assets/images/SecondPage/aariaRedLogo.png')}}" class="figure-img img-fluid rounded" alt="foodcoast international logo"></figcaption></a>
 </figure>
             </div>
      </div>
@@ -97,7 +97,7 @@
 
              <div class="col-sm-3 col-md-3">
 <figure class="figure">
- <a href="/dark-chocolates"><img src="{{asset('assets/images/SecondPage/dc.jpg')}}" class="figure-img img-fluid rounded" alt=""></a>
+ <a href="/dark-chocolates"><img src="{{asset('assets/images/SecondPage/dc.jpg')}}" class="figure-img img-fluid rounded" alt="aariafoods dark chocolates icon"></a>
   <a href="/dark-chocolates" class="links"><h4 class="text-center mt-2 header-text-product">
       DARK CHOCOLATE
   </h4></a>
@@ -106,7 +106,7 @@
              </div>
              <div class="col-sm-3 col-md-3">
 <figure class="figure">
- <a href="/milk-chocolates"><img src="{{asset('assets/images/SecondPage/milk.jpg')}}" class="figure-img img-fluid rounded" alt=""></a>
+ <a href="/milk-chocolates"><img src="{{asset('assets/images/SecondPage/milk.jpg')}}" class="figure-img img-fluid rounded" alt="aariafoods milk chocolates icon"></a>
   <a href="/milk-chocolates" class="links"><h4 class="text-center mt-2 header-text-product">
       MILK CHOCOLATE
   </h4></a>
@@ -115,7 +115,7 @@
              </div>
              <div class="col-sm-3 col-md-3">
 <figure class="figure">
- <a href="/white-chocolates"><img src="{{asset('assets/images/SecondPage/white.jpg')}}" class="figure-img img-fluid rounded" alt=""></a>
+ <a href="/white-chocolates"><img src="{{asset('assets/images/SecondPage/white.jpg')}}" class="figure-img img-fluid rounded" alt="aariafoods white chocolates icon"></a>
   <a href="/white-chocolates" class="links"><h4 class="text-center mt-2 header-text-product">
      WHITE CHOCOLATE
   </h4></a>
@@ -124,7 +124,7 @@
              </div>
              <div class="col-sm-3 col-md-3">
 <figure class="figure">
- <a href="/fillings"><img src="{{asset('assets/images/SecondPage/hazelnut.jpg')}}" class="figure-img img-fluid rounded" alt=""></a>
+ <a href="/fillings"><img src="{{asset('assets/images/SecondPage/hazelnut.jpg')}}" class="figure-img img-fluid rounded" alt="icon of feelings and pastes by aariafoods"></a>
   <a href="/fillings" class="links"><h4 class="text-center mt-2 header-text-product">
       FILLINGS & PASTES
   </h4></a>
@@ -132,7 +132,7 @@
 </figure>
              </div>
          </div>
-         
+
      </section>
  </div>
 

@@ -16,8 +16,8 @@
           <ul class="widget_info_text mylist">
              <li class="text-center ml-2"><i class="fa fa-location-arrow fa-2x" aria-hidden="true"></i><span class="ml-3">A-23/A Focal Point</span></li>
              <li class="text-center address"><span class="ml-4">Jalandhar, Punjab</span></li>
-             <li class="text-center"><i class="fa fa-envelope fa-2x" aria-hidden="true"></i><span class="ml-3">info@aariafoods.com</span></li>
-             <li class="text-center ml-3"><i class="fa fa-phone fa-2x" style="line-height: 2"></i> <span class="ml-3">0181-5077771/72</span></li>
+             <li class="text-center"><i class="fa fa-envelope fa-2x" aria-hidden="true"></i><a href="mailto:info@aariafoods.com" style="color: white"><span class="ml-3">info@aariafoods.com</span></a></li>
+             <li class="text-center ml-1"><i class="fa fa-phone fa-2x" style="line-height: 2"></i> <a href="tel:01815077771" style="color: white"><span class="ml-2">0181-5077771/72</span></a></li>
 
           </ul>
 
@@ -68,6 +68,15 @@
       <!-- Grid column -->
     </div>
     <!-- Grid row -->
+
+    <div class="row">
+        <div class="col-sm-12 col-md-12">
+            <hr style="border-block-color: white">
+            <div class="text-center">
+<p class="font-weight-bold">&#169;copyright 2019-21 : All rights reserved at <a href="https://www.aariafoods.com/"style="color: white">aariafoods</a></p>
+            </div>
+        </div>
+    </div>
 
   </div>
   <!-- Footer Links -->

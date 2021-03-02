@@ -3,7 +3,7 @@
 <div id="carouselExampleControls" class="carousel slide" data-ride="carousel" style="margin-top: 50px">
 <div class="carousel-inner">
  <div class="carousel-item active">
-     <img src="{{asset('assets/images/ThirdPage/chocoHeader.jpg')}}" class="d-block w-100" alt="...">
+     <img src="{{asset('assets/images/ThirdPage/chocoHeader.jpg')}}" class="d-block w-100" alt="coco header image by aariafoods">
     </div>
 </div>
 </div>
@@ -12,7 +12,7 @@
 <section class="text-center">
 <div class="row">
     <div class="col-sm-6 col-md-6">
-<img src="{{asset('assets/images/ThirdPage/BeanToChocolate.jpg')}}" class="img-fluid">
+<img src="{{asset('assets/images/ThirdPage/BeanToChocolate.jpg')}}" class="img-fluid" alt="bean to chocolate proceess by aariafoods">
     </div>
      <div class="col-sm-6 col-md-6 compDesc" style="margin-top: 100px">
 <p>It’s an exciting time in the world of bean-to-bar chocolate, for both makers that are continuously working to make their product better and for a receptive market of consumers.</p>
@@ -34,40 +34,40 @@
 </div>
 <div class="row">
     <div class="col-sm-4 col-md-4 mt-3 mb-3">
-<img class="img-fluid hvr-bounce-in lazy" src="{{asset('assets/images/ThirdPage/ChocoBean1.jpg')}}" loading="lazy">
+<img class="img-fluid hvr-bounce-in lazy" src="{{asset('assets/images/ThirdPage/ChocoBean1.jpg')}}" loading="lazy" alt="choco beans">
     </div>
      <div class="col-sm-4 col-md-4 mt-3 mb-3">
-<img class="img-fluid hvr-bounce-in lazy" src="{{asset('assets/images/ThirdPage/beansGroud2.jpg')}}" loading="lazy">
+<img class="img-fluid hvr-bounce-in lazy" src="{{asset('assets/images/ThirdPage/beansGroud2.jpg')}}" loading="lazy" alt="choco beans dryied in ground">
     </div>
      <div class="col-sm-4 col-md-4 mt-3 mb-3">
-<img class="img-fluid hvr-bounce-in lazy" src="{{asset('assets/images/ThirdPage/chocoHands3.jpg')}}" loading="lazy">
+<img class="img-fluid hvr-bounce-in lazy" src="{{asset('assets/images/ThirdPage/chocoHands3.jpg')}}" loading="lazy" alt="choco beans in hand">
     </div>
     <div class="col-sm-4 col-md-4 mt-3 mb-3">
-<img class="img-fluid hvr-bounce-in lazy" src="{{asset('assets/images/ThirdPage/chocoPicking.jpg')}}" loading="lazy">
+<img class="img-fluid hvr-bounce-in lazy" src="{{asset('assets/images/ThirdPage/chocoPicking.jpg')}}" loading="lazy" alt="choco picking in company">
     </div>
      <div class="col-sm-4 col-md-4 mt-3 mb-3">
-<img class="img-fluid hvr-bounce-in lazy" src="{{asset('assets/images/ThirdPage/machineBack5.jpg')}}" loading="lazy">
+<img class="img-fluid hvr-bounce-in lazy" src="{{asset('assets/images/ThirdPage/machineBack5.jpg')}}" loading="lazy" alt="choco refinded in shape">
     </div>
      <div class="col-sm-4 col-md-4 mt-3 mb-3">
-<img class="img-fluid hvr-bounce-in lazy" src="{{asset('assets/images/ThirdPage/machineChocoback6.jpg')}}" loading="lazy">
+<img class="img-fluid hvr-bounce-in lazy" src="{{asset('assets/images/ThirdPage/machineChocoback6.jpg')}}" loading="lazy" alt="chocolates grinds">
     </div>
     <div class="col-sm-4 col-md-4 mt-3 mb-3">
-<img class="img-fluid hvr-bounce-in lazy" src="{{asset('assets/images/ThirdPage/chocolateRolling7.jpg')}}" loading="lazy">
+<img class="img-fluid hvr-bounce-in lazy" src="{{asset('assets/images/ThirdPage/chocolateRolling7.jpg')}}" loading="lazy" alt="chocolate shape in machine">
     </div>
      <div class="col-sm-4 col-md-4 mt-3 mb-3">
-<img class="img-fluid hvr-bounce-in lazy" src="{{asset('assets/images/ThirdPage/ChocoBleac8.jpg')}}" loading="lazy">
+<img class="img-fluid hvr-bounce-in lazy" src="{{asset('assets/images/ThirdPage/ChocoBleac8.jpg')}}" loading="lazy" alt="grinding the choclates in machine">
     </div>
      <div class="col-sm-4 col-md-4 mt-3 mb-3">
-<img class="img-fluid hvr-bounce-in lazy" src="{{asset('assets/images/ThirdPage/machineChoco9.jpg')}}" loading="lazy">
+<img class="img-fluid hvr-bounce-in lazy" src="{{asset('assets/images/ThirdPage/machineChoco9.jpg')}}" loading="lazy" alt="mixing the chocolate">
     </div>
     <div class="col-sm-4 col-md-4 mt-3 mb-3">
-<img class="img-fluid hvr-bounce-in lazy" src="{{asset('assets/images/ThirdPage/DarkChocolates10.jpg')}}" loading="lazy">
+<img class="img-fluid hvr-bounce-in lazy" src="{{asset('assets/images/ThirdPage/DarkChocolates10.jpg')}}" loading="lazy" alt="choco chips">
     </div>
      <div class="col-sm-4 col-md-4 mt-3 mb-3">
-<img class="img-fluid hvr-bounce-in lazy" src="{{asset('assets/images/ThirdPage/ChocoPouch11.jpg')}}" loading="lazy">
+<img class="img-fluid hvr-bounce-in lazy" src="{{asset('assets/images/ThirdPage/ChocoPouch11.jpg')}}" loading="lazy" alt="aariafoods packeging in the packet">
     </div>
      <div class="col-sm-4 col-md-4 mt-3 mb-3">
-<img class="img-fluid hvr-bounce-in lazy" src="{{asset('assets/images/ThirdPage/Boxhead12.jpg')}}" loading="lazy">
+<img class="img-fluid hvr-bounce-in lazy" src="{{asset('assets/images/ThirdPage/Boxhead12.jpg')}}" loading="lazy" alt="aariafoods packeging in the box">
     </div>
 </div>
 

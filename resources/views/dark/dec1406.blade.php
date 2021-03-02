@@ -3,7 +3,7 @@
 <div id="carouselExampleControls" class="carsoule slide" data-ride="carousel"style="margin-top: 50px">
 <div class="carousel-inner">
  <div class="carousel-item active">
-     <img src="{{asset('assets/images/DarkChocolates/1406-h.jpg')}}" class="d-block w-100" alt="...">
+     <img src="{{asset('assets/images/DarkChocolates/1406-h.jpg')}}" class="d-block w-100" alt="dark chocolate Ecuadaor by aariafoods">
     </div>
 </div>
 </div>
@@ -79,7 +79,7 @@
     </div>
         <div class="row product-top">
 <div class="col-sm-7 col-md-7 text-center">
-<img src="{{asset('assets/images/DarkChocolates/1441-recipe-1024x683.jpg')}}" class="img-fluid hvr-float-shadow lazy" loading="lazy">
+<img src="{{asset('assets/images/DarkChocolates/1441-recipe-1024x683.jpg')}}" class="img-fluid hvr-float-shadow lazy" loading="lazy" alt="BROWNIES WITH RASPBERRY CHEESE SWIRL recipe by aariafoods">
 </div>
 <div class="col-sm-5 col-md-5 text-center">
 <table class="table tableCol">
@@ -165,15 +165,15 @@
 <div class="container w-50 mt-5">
     <div class="row justify-content-md-center">
 <div class="col-sm-4">
-    <div class="img hvr-float-shadow"><a href="/dark-chocolates/dec-1427"><img src="{{asset('assets/images/DarkChocolates/1427Bot.jpg')}}" class="img-fluid center-block lazy" loading="lazy" alt="Responsive image"></a></div>
+    <div class="img hvr-float-shadow"><a href="/dark-chocolates/dec-1427"><img src="{{asset('assets/images/DarkChocolates/1427Bot.jpg')}}" class="img-fluid center-block lazy" loading="lazy" alt="aariafoods dark chcolates-1427"></a></div>
     <p class="text-center recip mt-2">RECIPE NO° 1427</p>
 </div>
 <div class="col-sm-4">
-    <div class="img hvr-float-shadow"><a href="/dark-chocolates/dec-1440"><img src="{{asset('assets/images/DarkChocolates/1440Bot.jpg')}}" class="img-fluid center-block lazy" loading="lazy" alt="Responsive image"></a></div>
+    <div class="img hvr-float-shadow"><a href="/dark-chocolates/dec-1440"><img src="{{asset('assets/images/DarkChocolates/1440Bot.jpg')}}" class="img-fluid center-block lazy" loading="lazy" alt="aariafoods dark chcolates-1440"></a></div>
     <p class="text-center recip mt-2">RECIPE NO° 1440</p>
 </div>
 <div class="col-sm-4">
-<div class="img hvr-float-shadow"><a href="/dark-chocolates/dec-1441"><img src="{{asset('assets/images/DarkChocolates/1441Bot.jpg')}}" class="img-fluid center-block lazy" loading="lazy" alt="Responsive image"></a></div>
+<div class="img hvr-float-shadow"><a href="/dark-chocolates/dec-1441"><img src="{{asset('assets/images/DarkChocolates/1441Bot.jpg')}}" class="img-fluid center-block lazy" loading="lazy" alt="aariafoods dark chcolates-1441"></a></div>
 <p class="text-center recip mt-2">RECIPE NO° 1441</p>
 </div>
     </div>
