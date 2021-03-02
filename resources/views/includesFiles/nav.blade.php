@@ -23,21 +23,6 @@
                   <li><a href="/dark-chocolates" class="dropdown-item">Dark Chocolates</a></li>
                     <li><a href="/white-chocolates" class="dropdown-item">White Chocolates</a></li>
                      <li><a href="/milk-chocolates" class="dropdown-item">Milk Chocolates</a></li>
-                  <!-- Level three dropdown-->
-                {{-- <li class="dropdown-submenu">
-                  <a id="dropdownMenu3" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="dropdown-item dropdown-toggle">Chocolates</a>
-                  <ul aria-labelledby="dropdownMenu3" class="dropdown-menu border-0 shadow">
-                    <li><a href="#" class="dropdown-item">Dark Chocolates</a></li>
-                    <li><a href="#" class="dropdown-item">White Chocolates</a></li>
-                     <li><a href="#" class="dropdown-item">Milk Chocolates</a></li>
-                  </ul>
-                </li> --}}
-                <!-- End Level three -->
-                {{-- <li>
-                  <a tabindex="-1" href="#" class="dropdown-item"></a>
-                </li>
-                <li><a href="#" class="dropdown-item">Fillings</a></li>
-                <li><a href="#" class="dropdown-item">Pastes</a></li> --}}
               </ul>
             </li>
             <!-- End Level two -->

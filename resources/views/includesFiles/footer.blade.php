@@ -30,7 +30,7 @@
 
         <!-- Links -->
         <h5 class="font-weight-italic mt-3 mb-4 footer-back text-center">
-            <img src="{{asset('assets/images/FirstPage/Aaria-Logo-golden.png')}}">
+            <img src="{{asset('assets/images/FirstPage/Aaria-Logo-golden.png')}}" alt="Aariafoods golden logo">
             <div class="astrodivider">
             <div class="astrodividermask" style="margin-top: -10px"></div><span><i>&#10038;</i></span>
         </div>

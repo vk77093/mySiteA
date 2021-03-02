@@ -11,7 +11,7 @@
     <div class="row">
 <section class="text-center contact">
     <div data-aos="zoom-in" data-aos-duration="3000">
-    <div class="col-sm-12 col-md-12 mt-4">
+    <div class="col-sm-8 col-md-12 mt-4">
             <h1 class="text-center mt-3">
            CONTACT US
             <div class="astrodivider">
@@ -48,7 +48,7 @@
         </div>
         <p class="">DROP YOUR QUERY BELOW</p>
         <div class="card-body">
-                        
+
                         @if(Session::has('success'))
                         <div class="alert alert-success">
                             {{ Session::get('success') }}
@@ -92,7 +92,7 @@
 <div class="container pb-top">
     <div class="col-sm-12 col-md-12 text-center">
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d212.9201308783319!2d75.57459525892354!3d31.36664724825991!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x391a5105a7f07d31%3A0x7c19f16df461ca68!2sAARIA!5e0!3m2!1sen!2sin!4v1593058568947!5m2!1sen!2sin"
-width="950" height="450" frameborder="0" style="border:0;"
+width="550" height="450" frameborder="0" style="border:0;"
 allowfullscreen="" aria-hidden="false" tabindex="0" class="hvr-grow"></iframe>
     </div>
 </div>

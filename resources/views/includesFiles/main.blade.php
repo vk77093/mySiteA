@@ -3,7 +3,8 @@
 <head>
 <meta charset="utf-8">
 <meta name="title" content="{{$title_content ?? ''}}">
-<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+{{-- <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"> --}}
+ <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="keywords" content="best and Premium Chocolates in india and world" />
 <meta name="description" content="{{$descriptionTag ?? ''}}" />
 <meta name="keywords" content="{{$keywords ?? ''}}">
@@ -19,7 +20,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <title>{{$title ?? ''}} -AARIA</title>
 <link rel="manifest" href="site.webmanifest">
-<link rel="shortcut icon" type="image/x-icon" href="{{asset('assets/images/DarkChocolates/headerImage.png')}}">
+<link rel="shortcut icon" type="image/x-icon" href="{{asset('assets/images/DarkChocolates/headerImage.png')}}" alt="aaria header image">
 
 <!-- jQuery -->
 {{-- <script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
