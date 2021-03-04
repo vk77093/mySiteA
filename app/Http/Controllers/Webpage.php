@@ -4,7 +4,9 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 use App\Models\Contacts;
-use Illuminate\Support\Facades\Mail;
+//use Illuminate\Support\Facades\Mail;
+use App\Mail\TestMail;
+use Mail;
 
 class Webpage extends Controller
 {
@@ -87,7 +89,7 @@ public function contact(){
 
     return view('pages.contact', compact('title', 'title_content', 'descriptionTag', 'keywords'));
 }
-public function saveContact(Request $request){
+ public function saveContact(Request $request){
        $request->validate([
             'name' => 'required',
             'email' => 'required|email',
@@ -115,4 +117,18 @@ public function saveContact(Request $request){
         return redirect()->back()->with(['success' => 'Thank you for submitting the detail, we got
          your details and shortly we will going to contact with you.']);
     }
+    public function saveContact2(Request $request){
+
+        $details=[
+            'name'=>$request->name,
+            'email' => $request->email,
+            'phone' =>$request->phone,
+            'subject' =>$request->subject,
+            'message' => $request->message,
+        ];
+        Mail::to('info@aariafoods.com')->send(new TestMail($details) );
+        return redirect('/contact-us#myContact')->with(['success' => 'Thank you for submitting the detail, we got
+         your details and shortly we will going to contact with you.']);
+    }
+
 }

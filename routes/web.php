@@ -38,6 +38,7 @@ Route::get('/milk-chocolates/dec-1506/technical-specification-1506', [Webpage::c
 
 Route::get('/contact-us',[Webpage::class,'contact']);
 Route::post('/contact-us',[Webpage::class,'saveContact'])->name('contact-us.store');
+Route::post('/contact-us', [Webpage::class, 'saveContact2'])->name('contact-us.store2');
 
 use App\Http\Controllers\Darkchocolates;
 Route::get('/dark-chocolates',[Darkchocolates::class,'dark']);

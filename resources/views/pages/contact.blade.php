@@ -47,7 +47,7 @@
             <div class="astrodividermask"></div><span><i>&#10038;</i></span>
         </div>
         <p class="">DROP YOUR QUERY BELOW</p>
-        <div class="card-body">
+        <div class="card-body" id ="myContact">
 
                         @if(Session::has('success'))
                         <div class="alert alert-success">
@@ -57,7 +57,7 @@
                             @endphp
                         </div>
                         @endif
-        <form href="{{route('contact-us.store')}}" method="POST" class="text-center">
+        <form href="{{route('contact-us.store2')}}" method="POST" class="text-center">
             @csrf
             <div class="form-group">
                 <label for="name">Name</label>
